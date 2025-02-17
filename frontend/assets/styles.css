@@ -1,0 +1,26 @@
+/* General Styling */
+/* This is the only thing that's actually easy */
+
+.nav-link {
+    color: #d3d3d3;  
+    font-size: 16px;
+    padding: 8px 15px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
+
+
+.active-link {
+    color: #ffffff !important;  
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.home-container {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10px;
+}

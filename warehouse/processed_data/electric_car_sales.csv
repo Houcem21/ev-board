@@ -1,0 +1,1728 @@
+mileage,make,model,fuel,gear,offerType,price,hp,year
+147000,toyota,auris,Electric/Gasoline,Automatic,Used,6950,99,2011
+84600,toyota,yaris,Electric/Gasoline,Automatic,Used,8990,143,2014
+23490,audi,a6,Electric/Gasoline,Automatic,Used,59440,367,2020
+19000,audi,q5,Electric/Gasoline,Automatic,Demonstration,59850,367,2020
+999,audi,a7,Electric/Gasoline,Automatic,Used,66890,367,2020
+15,fiat,panda,Electric/Gasoline,Manual,Pre-registered,10680,69,2021
+15,fiat,panda,Electric/Gasoline,Manual,Pre-registered,10980,69,2021
+98669,toyota,yaris,Electric/Gasoline,Automatic,Used,7900,75,2012
+82822,toyota,yaris,Electric/Gasoline,Automatic,Used,8500,75,2013
+118070,toyota,yaris,Electric/Gasoline,Automatic,Used,8900,75,2013
+33000,renault,zoe,Electric,Automatic,Used,8495,58,2016
+3500,others,unknown model,Electric,Manual,Used,5500,38,2018
+8100,mercedes-benz,e 300,Electric/Diesel,Automatic,Demonstration,45890,194,2019
+70500,lexus,rx 450h,Electric/Gasoline,Automatic,Used,47490,313,2019
+2300,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,64800,392,2019
+9990,ford,fiesta,Electric/Gasoline,Manual,Employee's car,15970,125,2020
+6315,ford,fiesta,Electric/Gasoline,Manual,Employee's car,16450,125,2020
+10,hyundai,ioniq,Electric,Manual,Demonstration,27670,120,2019
+15000,toyota,camry,Electric/Gasoline,Automatic,Used,27990,218,2019
+10,ford,fiesta,Electric/Gasoline,Manual,Demonstration,20950,125,2020
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,21250,105,2020
+2248,ford,focus,Electric/Gasoline,Manual,Used,21450,125,2020
+5,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,37970,230,2021
+18,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,37988,230,2021
+10,hyundai,tucson,Electric/Gasoline,Automatic,Demonstration,38387,230,2021
+10,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,38440,265,2021
+5,jeep,compass,Electric/Gasoline,Automatic,Demonstration,39890,179,2021
+2900,cupra,leon,Electric/Gasoline,Automatic,Used,39990,245,2021
+2500,cupra,formentor,Electric/Gasoline,Automatic,Demonstration,39990,245,2021
+2500,opel,grandland x,Electric/Gasoline,Automatic,Used,40780,300,2021
+16900,toyota,yaris,Electric/Gasoline,Automatic,Used,15900,102,2018
+20647,hyundai,ioniq,Electric/Gasoline,Automatic,Used,16990,141,2018
+37000,toyota,c-hr,Electric/Gasoline,Automatic,Used,17900,98,2018
+16203,audi,q5,Electric/Gasoline,Automatic,Used,52170,367,2019
+9853,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,34390,218,2020
+14900,audi,a3,Electric/Gasoline,Automatic,Demonstration,34750,204,2020
+9190,volkswagen,id.3,Electric,Automatic,Used,34920,204,2020
+8000,ford,kuga,Electric/Gasoline,Automatic,Used,34950,224,2020
+4900,peugeot,508,Electric/Gasoline,Automatic,Demonstration,58373,360,2021
+1500,volvo,xc40,Electric,Automatic,Demonstration,64890,408,2021
+5000,volvo,s60,Electric/Gasoline,Automatic,Demonstration,65880,392,2021
+1000,volvo,xc40,Electric,Automatic,Demonstration,69880,408,2021
+10,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,77480,341,2021
+10,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,77860,253,2021
+89679,toyota,auris,Electric/Gasoline,Automatic,Used,8690,99,2012
+20000,peugeot,ion,Electric,Automatic,Used,8815,67,2016
+20411,smart,fortwo,Electric,Automatic,Used,11749,82,2019
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15990,69,2021
+10,renault,zoe,Electric,Automatic,Used,15990,109,2021
+32900,renault,zoe,Electric,Automatic,Used,6250,58,2014
+17200,bmw,i3,Electric/Gasoline,Automatic,Used,23400,170,2017
+80000,bmw,330,Electric/Gasoline,Automatic,Used,24499,252,2017
+6484,toyota,prius,Electric/Gasoline,Automatic,Used,24500,122,2019
+5477,bmw,i3,Electric,Automatic,Used,25860,170,2019
+27000,audi,a4,Electric/Gasoline,Automatic,Used,25999,150,2019
+22044,toyota,corolla,Electric/Gasoline,Automatic,Used,26400,184,2019
+4,audi,a3,Electric/Gasoline,Automatic,Pre-registered,36900,204,2021
+1,seat,leon,Electric/Gasoline,Automatic,Used,45990,245,2021
+2545,seat,tarraco,Electric/Gasoline,Automatic,Used,46990,245,2021
+38000,renault,zoe,Electric,unknown gear,Used,8750,88,2016
+20,mazda,mx-30,Electric,Automatic,Pre-registered,22495,145,2020
+25,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,23990,105,2020
+20,hyundai,ioniq,Electric/Gasoline,Automatic,Used,24444,141,2020
+68649,mercedes-benz,glc 350,Electric/Gasoline,Automatic,Used,32999,211,2018
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,11488,69,2021
+56680,toyota,yaris,Electric/Gasoline,Automatic,Used,9450,101,2013
+2500,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,30880,188,2019
+12500,audi,e-tron,Electric,Automatic,Demonstration,85690,408,2020
+15,fiat,500,Electric/Gasoline,Manual,Pre-registered,12780,69,2021
+99000,toyota,auris,Electric/Gasoline,Automatic,Used,8500,99,2012
+2900,others,unknown model,Electric,Automatic,Used,7900,5,2018
+21185,ford,puma,Electric/Gasoline,Manual,Employee's car,20470,155,2020
+4445,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,22960,188,2020
+2465,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,23450,188,2020
+3000,mercedes-benz,eqc 400,Electric,Automatic,Demonstration,69890,197,2021
+32525,renault,kangoo,Electric,Automatic,Used,4999,60,2012
+340000,toyota,auris,Electric/Gasoline,Automatic,Used,6290,99,2015
+86268,renault,zoe,Electric,Automatic,Used,6490,58,2015
+16624,kia,soul,Electric,Automatic,Demonstration,31990,204,2019
+2028,ford,puma,Electric/Gasoline,Manual,Used,21680,125,2020
+13873,ford,puma,Electric/Gasoline,Manual,Used,21890,125,2020
+2691,opel,corsa,Electric,Automatic,Used,21950,136,2020
+50,ford,fiesta,Electric/Gasoline,Manual,Pre-registered,22285,155,2020
+15847,hyundai,kona,Electric/Gasoline,Automatic,Used,22291,141,2020
+5,peugeot,508,Electric/Gasoline,Automatic,Pre-registered,43980,224,2021
+3721,hyundai,kona,Electric,Automatic,Demonstration,44491,204,2021
+0,hyundai,kona,Electric,Manual,Used,44750,204,2021
+2999,mercedes-benz,gla 250,Electric/Gasoline,Automatic,Demonstration,44790,160,2021
+5,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,44870,230,2021
+5,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,45870,230,2021
+5,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,45970,230,2021
+50,hyundai,santa fe,Electric/Gasoline,Automatic,Demonstration,46990,265,2021
+1000,opel,zafira life,Electric,Automatic,Used,47650,136,2021
+55000,renault,zoe,Electric,Automatic,Used,6300,58,2015
+15800,renault,twizy,Electric,unknown gear,Used,4800,11,2016
+36500,lexus,is 300,Electric/Gasoline,Automatic,Used,28950,223,2018
+10,seat,leon,Electric/Gasoline,Automatic,Demonstration,34970,204,2020
+3418,volkswagen,id.3,Electric,Automatic,Used,35390,204,2020
+9999,volkswagen,id.3,Electric,Automatic,Demonstration,35555,204,2020
+11750,volkswagen,passat variant,Electric/Gasoline,Automatic,Employee's car,35990,156,2020
+2080,volkswagen,id.3,Electric,Automatic,Employee's car,35990,204,2020
+37330,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,36390,218,2020
+9999,volkswagen,golf,Electric/Gasoline,Automatic,Demonstration,36555,245,2020
+6500,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,135900,462,2021
+9000,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,155500,560,2021
+3000,audi,unknown model,Electric,Automatic,Demonstration,172450,598,2021
+14,suzuki,swift,Electric/Gasoline,Manual,Pre-registered,19990,129,2021
+128000,toyota,auris,Electric/Gasoline,Automatic,Used,9200,99,2012
+75616,toyota,yaris,Electric/Gasoline,Automatic,Used,9950,75,2013
+1111,fiat,500,Electric/Gasoline,Manual,Pre-registered,13090,69,2020
+50,fiat,500,Electric/Gasoline,Manual,Pre-registered,13290,69,2020
+248000,peugeot,3008,Electric/Diesel,Automatic,Used,5100,163,2012
+68991,renault,zoe,Electric,unknown gear,Used,6600,58,2014
+46900,renault,zoe,Electric,Automatic,Used,6690,88,2016
+26200,renault,zoe,Electric,Automatic,Used,6750,58,2016
+133000,mercedes-benz,e 350,Electric/Gasoline,Automatic,Used,28999,286,2017
+13800,bmw,i3,Electric/Gasoline,Automatic,Used,22900,170,2018
+13481,toyota,camry,Electric/Gasoline,Automatic,Used,28500,218,2019
+12175,toyota,corolla,Electric/Gasoline,Automatic,Used,28900,184,2019
+2000,opel,zafira life,Electric,Manual,Demonstration,47490,136,2020
+22300,bmw,530,Electric/Gasoline,Automatic,Used,49900,252,2020
+12000,land,rover range rover evoque,Electric/Gasoline,Automatic,Demonstration,53350,200,2020
+1,lexus,nx 300,Electric/Gasoline,Automatic,Used,48980,197,2021
+2297,bmw,x2,Electric/Gasoline,Automatic,Demonstration,49730,220,2021
+10000,bmw,330,Electric/Gasoline,Automatic,Demonstration,57290,292,2021
+1500,skoda,enyaq,Electric,Manual,Demonstration,57460,204,2021
+136450,toyota,yaris,Electric/Gasoline,Automatic,Used,8450,75,2013
+19990,renault,zoe,Electric,Automatic,Used,8990,88,2016
+20,subaru,xv,Electric/Gasoline,Automatic,Pre-registered,25990,150,2020
+150,hyundai,i30,Electric/Gasoline,Manual,Demonstration,26990,160,2020
+25,subaru,xv,Electric/Gasoline,Automatic,Pre-registered,27590,150,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13840,69,2021
+37985,renault,zoe,Electric,Automatic,Used,7988,92,2015
+58390,renault,zoe,Electric,Automatic,Used,6888,92,2016
+56760,volvo,v60,Electric/Gasoline,Automatic,Used,44900,392,2019
+8900,tesla,model 3,Electric,Automatic,Used,54988,513,2019
+20684,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,36990,218,2020
+8000,skoda,octavia,Electric/Gasoline,Automatic,Demonstration,38888,204,2020
+93709,toyota,auris,Electric/Gasoline,Automatic,Used,7990,99,2011
+101000,toyota,prius,Electric/Gasoline,Automatic,Used,8980,99,2012
+91000,toyota,yaris,Electric/Gasoline,Automatic,Used,9990,101,2013
+184944,volkswagen,jetta,Electric/Gasoline,Automatic,Used,10000,150,2013
+67988,toyota,yaris,Electric/Gasoline,Automatic,Used,10490,101,2014
+40962,volvo,v90,Electric/Gasoline,Automatic,Used,47960,303,2019
+12600,ford,fiesta,Electric/Gasoline,Manual,Employee's car,15480,125,2020
+15,fiat,500,Electric/Gasoline,Manual,Pre-registered,13480,69,2021
+71500,toyota,prius,Electric/Gasoline,Automatic,Used,8900,99,2011
+87500,toyota,auris,Electric/Gasoline,Automatic,Used,8900,99,2012
+1100,volkswagen,golf,Electric,Automatic,Used,24490,136,2019
+6855,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,23970,188,2020
+9615,ford,focus,Electric/Gasoline,Manual,Employee's car,23990,155,2020
+66083,audi,q7,Electric/Diesel,Automatic,Used,58870,258,2018
+20,ford,puma,Electric/Gasoline,Manual,Used,22650,125,2020
+5060,ford,puma,Electric/Gasoline,Manual,Used,22770,125,2020
+9955,ford,puma,Electric/Gasoline,Manual,Used,22990,125,2020
+2,kia,sorento,Electric/Gasoline,Automatic,Used,49450,265,2021
+12,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,49990,230,2021
+5,kia,sorento,Electric/Gasoline,Automatic,Demonstration,50979,265,2021
+3000,hyundai,tucson,Electric/Gasoline,Automatic,Demonstration,52320,265,2021
+5,jeep,compass,Electric/Gasoline,Automatic,Demonstration,53140,239,2021
+199,peugeot,508,Electric/Gasoline,Automatic,Demonstration,58880,360,2021
+12,kia,sorento,Electric/Gasoline,Automatic,Demonstration,61990,179,2021
+24900,ford,mondeo,Electric/Gasoline,Automatic,Used,23400,188,2019
+23000,ford,kuga,Electric/Gasoline,Automatic,Used,37350,224,2020
+4999,volkswagen,golf,Electric/Gasoline,Automatic,Demonstration,30880,245,2021
+25,mini,cooper se,Electric,Automatic,Demonstration,37980,184,2021
+3950,volkswagen,golf,Electric/Gasoline,Automatic,Demonstration,39950,204,2021
+43500,renault,kangoo,Electric,Automatic,Used,11500,60,2014
+46597,volkswagen,unknown model,Electric,Automatic,Used,10490,82,2015
+46227,toyota,yaris,Electric/Gasoline,Automatic,Used,10690,101,2015
+15670,smart,fortwo,Electric,Automatic,Used,12990,82,2019
+1000,fiat,500,Electric/Gasoline,Manual,Demonstration,13750,69,2020
+25,fiat,500,Electric/Gasoline,Manual,Pre-registered,13890,69,2020
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,16990,69,2021
+49900,renault,zoe,Electric,Automatic,Used,6690,58,2013
+68000,renault,zoe,Electric,Automatic,Used,6750,88,2014
+16176,renault,twizy,Electric,unknown gear,Used,7150,11,2015
+23500,renault,zoe,Electric,Automatic,Used,6950,58,2016
+30000,mercedes-benz,glc 350,Electric/Gasoline,Automatic,Used,34999,320,2017
+46252,toyota,rav 4,Electric/Gasoline,Automatic,Used,24590,197,2018
+16780,toyota,prius,Electric/Gasoline,Automatic,Used,25990,122,2018
+21400,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,32700,135,2019
+28612,bmw,530,Electric/Gasoline,Automatic,Used,35860,184,2019
+27785,lexus,unknown model,Electric/Gasoline,Automatic,Used,35990,197,2019
+20000,ford,explorer,Electric/Gasoline,Automatic,Demonstration,67250,363,2020
+1000,suzuki,ignis,Electric/Gasoline,Automatic,Demonstration,15790,83,2021
+103200,toyota,yaris,Electric/Gasoline,Automatic,Used,8990,101,2013
+11023,smart,fortwo,Electric,Automatic,Used,10490,82,2018
+10988,renault,zoe,Electric,Automatic,Used,11975,92,2019
+7500,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,27990,105,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,14340,69,2021
+10,suzuki,ignis,Electric/Gasoline,Manual,Used,14990,83,2021
+397000,toyota,prius,Electric/Gasoline,Automatic,Used,7100,99,2016
+6098,mercedes-benz,c 300,Electric/Gasoline,Automatic,Employee's car,41630,211,2020
+6382,mercedes-benz,c 300,Electric/Gasoline,Automatic,Employee's car,42498,211,2020
+7184,skoda,superb,Electric/Gasoline,Automatic,Used,43444,218,2020
+6500,land,rover range rover evoque,Electric/Diesel,Automatic,Used,48945,179,2020
+9500,skoda,superb,Electric/Gasoline,Automatic,Demonstration,51480,156,2020
+12410,mercedes-benz,e 300,Electric/Diesel,Automatic,Employee's car,52587,194,2020
+45740,volkswagen,up!,Electric,Automatic,Used,10450,82,2013
+127500,toyota,auris,Electric/Gasoline,Automatic,Used,10790,136,2013
+10,nissan,leaf,Electric,Automatic,Used,10850,109,2014
+59000,nissan,leaf,Electric,Automatic,Used,11990,109,2015
+15990,audi,e-tron,Electric,Automatic,Used,63940,408,2019
+14300,ford,fiesta,Electric/Gasoline,Manual,Employee's car,15580,125,2020
+7150,seat,mii,Electric,Automatic,Used,16440,83,2020
+15,fiat,500,Electric/Gasoline,Manual,Pre-registered,13780,69,2021
+15,fiat,500c,Electric/Gasoline,Manual,Pre-registered,14280,69,2021
+65000,honda,jazz,Electric/Gasoline,Automatic,Used,9890,88,2011
+104900,toyota,auris,Electric/Gasoline,Automatic,Used,9490,136,2012
+99943,toyota,auris,Electric/Gasoline,Automatic,Used,9499,99,2012
+15645,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,26990,188,2020
+750,renault,captur,Electric/Gasoline,Automatic,Demonstration,28600,91,2021
+2966,skoda,enyaq,Electric,Automatic,Demonstration,51280,204,2021
+41721,renault,zoe,Electric,Automatic,Used,6850,58,2015
+51889,toyota,yaris,Electric/Gasoline,Automatic,Used,12240,99,2017
+23670,toyota,yaris,Electric/Gasoline,Automatic,Used,13999,101,2017
+46124,toyota,yaris,Electric/Gasoline,Automatic,Used,14190,99,2017
+78555,toyota,auris,Electric/Gasoline,Automatic,Used,14920,136,2017
+88830,toyota,yaris,Electric/Gasoline,Automatic,Used,13666,101,2018
+31492,toyota,yaris,Electric/Gasoline,Automatic,Used,14260,99,2018
+32106,toyota,yaris,Electric/Gasoline,Automatic,Used,14953,99,2018
+14196,volvo,xc60,Electric/Diesel,Automatic,Used,38890,197,2019
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,23650,105,2020
+7500,ford,focus,Electric/Gasoline,Manual,Employee's car,23950,125,2020
+2000,volvo,s90,Electric/Gasoline,Automatic,Demonstration,64980,303,2021
+4500,ford,explorer,Electric/Gasoline,Automatic,Demonstration,66990,457,2021
+100,ford,mustang,Electric,Automatic,Demonstration,69980,337,2021
+1500,audi,a6,Electric/Gasoline,Automatic,Used,70950,367,2021
+2350,audi,a6,Electric/Gasoline,Automatic,Demonstration,79773,252,2021
+26000,smart,fortwo,Electric,unknown gear,Used,6800,48,2015
+59168,lexus,es 300,Electric/Gasoline,Automatic,Used,36470,218,2018
+35,skoda,octavia,Electric/Gasoline,Automatic,Pre-registered,38890,150,2020
+4500,kia,sorento,Electric/Gasoline,Automatic,Demonstration,49989,265,2021
+25,bmw,330,Electric/Gasoline,Automatic,Demonstration,54680,292,2021
+4496,bmw,330,Electric/Gasoline,Automatic,Demonstration,58880,292,2021
+25,bmw,x5,Electric/Gasoline,Automatic,Demonstration,89980,394,2021
+121000,toyota,prius,Electric/Gasoline,Automatic,Used,10750,99,2012
+227248,mercedes-benz,e 300,Electric/Diesel,Automatic,Used,11480,204,2013
+25,fiat,500,Electric/Gasoline,Manual,Pre-registered,14490,69,2020
+800,mazda,2,Electric/Gasoline,Manual,Demonstration,16990,90,2021
+42500,smart,fortwo,Electric,Automatic,Used,6900,48,2014
+58599,renault,zoe,Electric,Automatic,Used,7440,88,2015
+46950,renault,zoe,Electric,Automatic,Used,7000,58,2016
+46525,volvo,v60,Electric/Diesel,Automatic,Used,28339,220,2018
+6550,ford,focus,Electric/Gasoline,Manual,Employee's car,21669,125,2020
+10,suzuki,sx4 s-cross,Electric/Gasoline,Manual,Pre-registered,23900,129,2021
+1500,kia,niro,Electric/Gasoline,Automatic,Demonstration,28900,105,2021
+398,kia,niro,Electric/Gasoline,Automatic,Demonstration,31300,105,2021
+900,peugeot,208,Electric,Automatic,Demonstration,32500,77,2021
+35400,nissan,leaf,Electric,Automatic,Used,8998,109,2013
+37058,toyota,yaris,Electric/Gasoline,Automatic,Used,10330,101,2015
+12812,renault,zoe,Electric,Automatic,Used,9975,92,2016
+13500,renault,zoe,Electric,Automatic,Used,7900,88,2017
+24200,renault,zoe,Electric,Automatic,Used,10990,92,2018
+7600,renault,zoe,Electric,Automatic,Demonstration,12250,58,2019
+10153,smart,forfour,Electric,Automatic,Used,12270,82,2019
+5259,ford,kuga,Electric/Gasoline,Automatic,Employee's car,34985,152,2020
+12852,mercedes-benz,c 300,Electric/Gasoline,Automatic,Employee's car,36480,211,2020
+1756,seat,leon,Electric/Gasoline,Automatic,Demonstration,37450,204,2020
+6500,mitsubishi,outlander,Electric/Gasoline,Automatic,Demonstration,39993,135,2020
+11000,volvo,s90,Electric/Gasoline,Automatic,Used,57900,405,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,12921,69,2021
+25900,toyota,yaris,Electric/Gasoline,Automatic,Used,10990,75,2013
+39700,toyota,yaris,Electric/Gasoline,Automatic,Used,11590,101,2014
+64000,bmw,i3,Electric,Automatic,Used,12150,102,2015
+47500,volkswagen,up!,Electric,Automatic,Used,10990,82,2016
+34900,smart,fortwo,Electric,Automatic,Used,8999,82,2017
+36552,smart,forfour,Electric,Automatic,Used,9190,82,2018
+7300,ford,focus,Electric/Gasoline,Manual,Employee's car,18680,125,2020
+1370,fiat,500,Electric/Gasoline,Manual,Used,14480,69,2021
+15,fiat,500c,Electric/Gasoline,Manual,Pre-registered,14780,69,2021
+72700,toyota,auris,Electric/Gasoline,Automatic,Used,10990,136,2011
+68483,honda,cr-z,Electric/Gasoline,Manual,Used,9889,114,2012
+66500,toyota,auris,Electric/Gasoline,Automatic,Used,9900,99,2012
+19700,renault,zoe,Electric,Automatic,Used,8995,92,2017
+14060,smart,fortwo,Electric,Automatic,Used,9250,56,2018
+770,mazda,mx-30,Electric,Automatic,Demonstration,27990,110,2020
+5500,seat,leon,Electric/Gasoline,Automatic,Demonstration,29900,204,2020
+1111,seat,leon,Electric/Gasoline,Automatic,Demonstration,29950,150,2020
+6000,toyota,camry,Electric/Gasoline,Automatic,Used,29990,218,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,10898,69,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,11688,69,2021
+62072,toyota,auris,Electric/Gasoline,Automatic,Used,14999,136,2017
+55930,toyota,auris,Electric/Gasoline,Automatic,Used,15947,136,2017
+52650,toyota,auris,Electric/Gasoline,Automatic,Used,16650,136,2017
+44540,toyota,auris,Electric/Gasoline,Automatic,Used,17865,136,2017
+56240,toyota,auris,Electric/Gasoline,Automatic,Used,15850,136,2018
+35810,toyota,auris,Electric/Gasoline,Automatic,Used,15890,136,2018
+19089,toyota,auris,Electric/Gasoline,Automatic,Used,17490,136,2018
+18910,toyota,auris,Electric/Gasoline,Automatic,Used,17677,136,2018
+77640,toyota,c-hr,Electric/Gasoline,Automatic,Used,18790,122,2018
+59495,toyota,c-hr,Electric/Gasoline,Automatic,Used,18850,122,2018
+19500,kia,niro,Electric,Automatic,Demonstration,42990,204,2019
+17346,volvo,xc60,Electric/Diesel,Automatic,Used,43980,235,2019
+17300,volvo,s90,Electric/Gasoline,Automatic,Used,45440,392,2019
+5990,ford,puma,Electric/Gasoline,Manual,Used,24480,155,2020
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,24650,105,2020
+4000,ford,puma,Electric/Gasoline,Manual,Used,24720,155,2020
+50,hyundai,kona,Electric/Gasoline,Automatic,Demonstration,24750,141,2020
+1100,audi,e-tron,Electric,Automatic,Used,176980,598,2021
+15558,volkswagen,golf,Electric,Automatic,Used,16555,116,2017
+32107,volvo,s90,Electric/Gasoline,Automatic,Used,43990,390,2019
+180,opel,zafira life,Electric,Automatic,Used,41990,136,2020
+13990,volvo,xc40,Electric/Gasoline,Automatic,Used,42990,261,2020
+10,suzuki,swift,Electric/Gasoline,Manual,Demonstration,17990,83,2021
+25,ford,fiesta,Electric/Gasoline,Manual,Pre-registered,18970,125,2021
+25,ford,fiesta,Electric/Gasoline,Manual,Pre-registered,19270,155,2021
+57300,volkswagen,golf,Electric,Automatic,Used,13390,116,2014
+20540,volkswagen,up!,Electric,Automatic,Used,11850,82,2015
+109638,toyota,yaris,Electric/Gasoline,Automatic,Used,9950,101,2016
+50,fiat,500c,Electric/Gasoline,Manual,Pre-registered,14490,69,2020
+50,fiat,500,Electric/Gasoline,Manual,Pre-registered,14790,69,2020
+3500,suzuki,swift,Electric/Gasoline,Manual,Demonstration,14890,90,2020
+5000,smart,forfour,Electric,Automatic,Demonstration,14949,82,2020
+20,renault,twingo,Electric,Automatic,Demonstration,17490,83,2021
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,17850,69,2021
+63900,renault,zoe,Electric,Automatic,Used,7775,58,2015
+52661,renault,zoe,Electric,Automatic,Used,7500,92,2016
+44599,renault,zoe,Electric,Automatic,Used,7540,88,2016
+34124,renault,zoe,Electric,Automatic,Used,7590,88,2016
+75800,bmw,530,Electric/Gasoline,Automatic,Used,29960,184,2018
+56428,bmw,530,Electric/Gasoline,Automatic,Used,34780,184,2018
+18700,bmw,530,Electric/Gasoline,Automatic,Used,35400,252,2018
+14958,land,rover range rover sport,Electric/Gasoline,Automatic,Used,83890,404,2019
+10379,ford,focus,Electric/Gasoline,Manual,Employee's car,23119,155,2020
+10028,ford,focus,Electric/Gasoline,Manual,Employee's car,23229,155,2020
+4500,mazda,mx-30,Electric,Automatic,Demonstration,24140,110,2020
+2179,toyota,corolla,Electric/Gasoline,Automatic,Employee's car,24980,122,2020
+10,fiat,500e,Electric,Automatic,Pre-registered,33994,117,2021
+10,mazda,mx-30,Electric,Automatic,Demonstration,34990,110,2021
+3000,skoda,enyaq,Electric,Automatic,Used,49890,204,2021
+1500,kia,sorento,Electric/Gasoline,Automatic,Demonstration,56990,265,2021
+61900,toyota,yaris,Electric/Gasoline,Automatic,Used,9595,75,2013
+4354,skoda,octavia,Electric/Gasoline,Automatic,Demonstration,43980,245,2020
+6000,skoda,superb,Electric/Gasoline,Automatic,Demonstration,45980,218,2020
+2959,mercedes-benz,glc 300,Electric/Diesel,Automatic,Employee's car,50880,194,2020
+2810,mercedes-benz,glc 300,Electric/Diesel,Automatic,Employee's car,51480,194,2020
+2500,suzuki,swift,Electric/Gasoline,Manual,Demonstration,15998,83,2021
+73000,toyota,yaris,Electric/Gasoline,Automatic,Used,9400,75,2014
+156,hyundai,ioniq,Electric,Automatic,Used,22990,120,2019
+14798,toyota,corolla,Electric/Gasoline,Automatic,Used,23359,122,2019
+22450,kia,niro,Electric/Gasoline,Automatic,Used,23990,141,2019
+9645,toyota,corolla,Electric/Gasoline,Automatic,Used,25626,122,2019
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,14352,69,2020
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15990,69,2020
+105800,toyota,prius,Electric/Gasoline,Automatic,Used,11494,136,2013
+22000,nissan,leaf,Electric,Automatic,Used,12900,109,2015
+66300,renault,zoe,Electric,Automatic,Used,9350,58,2017
+31000,smart,fortwo,Electric,Automatic,Used,9699,82,2017
+18190,smart,forfour,Electric,Automatic,Used,9590,82,2018
+19082,smart,forfour,Electric,Automatic,Used,9790,82,2018
+1900,ford,puma,Electric/Gasoline,Manual,Employee's car,20180,125,2020
+24100,ford,puma,Electric/Gasoline,Manual,Employee's car,20980,155,2020
+43800,toyota,yaris,Electric/Gasoline,Automatic,Used,10390,101,2012
+88000,toyota,auris,Electric/Gasoline,Automatic,Used,11440,136,2014
+128782,volkswagen,golf,Electric,Automatic,Used,11689,116,2014
+22217,volkswagen,up!,Electric,Automatic,Used,9990,82,2016
+77856,toyota,yaris,Electric/Gasoline,Automatic,Used,9990,75,2016
+13029,audi,a3,Electric/Gasoline,Automatic,Used,30890,204,2020
+14900,audi,a3,Electric/Gasoline,Automatic,Employee's car,31450,204,2020
+1111,seat,leon,Electric/Gasoline,Automatic,Demonstration,31450,150,2020
+2,fiat,500,Electric/Gasoline,Manual,Demonstration,11978,69,2021
+2,fiat,500,Electric/Gasoline,Manual,Demonstration,12164,69,2021
+127000,renault,zoe,Electric,unknown gear,Used,5999,58,2013
+103954,toyota,rav 4,Electric/Gasoline,Automatic,Used,21978,197,2017
+33390,toyota,rav 4,Electric/Gasoline,Automatic,Used,21999,197,2017
+97839,toyota,rav 4,Electric/Gasoline,Automatic,Used,22480,197,2017
+63248,toyota,rav 4,Electric/Gasoline,Automatic,Used,23470,197,2017
+84229,toyota,rav 4,Electric/Gasoline,Automatic,Used,23970,197,2018
+2500,ford,puma,Electric/Gasoline,Manual,Demonstration,24790,125,2020
+4900,ford,puma,Electric/Gasoline,Manual,Used,25290,155,2020
+50,fiat,500c,Electric/Gasoline,Manual,Used,14650,69,2021
+10,smart,fortwo,Electric,Automatic,Demonstration,20299,56,2021
+10,smart,fortwo,Electric,Automatic,Pre-registered,21877,56,2021
+55000,smart,fortwo,Electric,Automatic,Used,6099,75,2013
+49850,toyota,c-hr,Electric/Gasoline,Automatic,Used,18460,122,2017
+63257,volkswagen,golf,Electric,Automatic,Used,18480,136,2017
+43134,toyota,c-hr,Electric/Gasoline,Automatic,Used,18860,122,2017
+37500,toyota,c-hr,Electric/Gasoline,Automatic,Used,18960,122,2017
+8348,toyota,c-hr,Electric/Gasoline,Automatic,Used,19950,98,2017
+16500,volvo,xc40,Electric/Gasoline,Automatic,Demonstration,43330,211,2020
+1447,volvo,xc40,Electric/Gasoline,Automatic,Used,44990,261,2020
+5000,volvo,xc40,Electric/Gasoline,Automatic,Used,46480,261,2020
+16851,volvo,v60,Electric/Gasoline,Automatic,Used,46940,390,2020
+5,aixam,unknown model,Electric,Automatic,Pre-registered,22180,0,2021
+25,ford,puma,Electric/Gasoline,unknown gear,Pre-registered,24190,155,2021
+101500,lexus,ct 200h,Electric/Gasoline,Automatic,Used,12700,136,2012
+14425,renault,zoe,Electric,Automatic,Used,8880,92,2017
+22020,renault,zoe,Electric,Automatic,Used,8890,92,2017
+113500,toyota,auris,Electric/Gasoline,Automatic,Used,13999,99,2019
+9000,renault,zoe,Electric,Automatic,Demonstration,14352,109,2019
+35490,toyota,yaris,Electric/Gasoline,Automatic,Used,14490,75,2019
+110056,toyota,yaris,Electric/Gasoline,Automatic,Used,7350,75,2013
+36999,renault,zoe,Electric,Automatic,Used,7540,88,2014
+11399,renault,zoe,Electric,Automatic,Used,7940,88,2015
+41899,renault,zoe,Electric,Automatic,Used,7990,88,2015
+49550,renault,zoe,Electric,Automatic,Used,7699,58,2016
+17500,peugeot,ion,Electric,Automatic,Used,10450,48,2017
+19000,renault,zoe,Electric,Automatic,Used,10990,92,2017
+20406,renault,zoe,Electric,Automatic,Used,11480,92,2017
+10460,toyota,corolla,Electric/Gasoline,Automatic,Used,24990,122,2020
+2000,mazda,mx-30,Electric,Automatic,Demonstration,24999,110,2020
+18209,mazda,cx-30,Electric/Gasoline,Manual,Employee's car,25229,179,2020
+10,toyota,c-hr,Electric/Gasoline,Automatic,Used,25690,184,2020
+2100,mini,cooper se,Electric,unknown gear,Used,26000,184,2020
+50,renault,zoe,Electric,Automatic,Used,11940,58,2018
+3100,smart,forfour,Electric,Automatic,Used,16850,82,2021
+115486,toyota,auris,Electric/Gasoline,Automatic,Used,7580,99,2011
+58181,nissan,leaf,Electric,Automatic,Used,9240,109,2013
+52500,smart,fortwo,Electric,unknown gear,Used,9555,48,2014
+11410,renault,zoe,Electric,Automatic,Used,7990,58,2016
+5,fiat,500,Electric/Gasoline,Manual,Pre-registered,13685,69,2021
+67701,toyota,yaris,Electric/Gasoline,Automatic,Used,11850,101,2016
+3107,smart,forfour,Electric,Automatic,Used,9990,82,2017
+2430,ford,puma,Electric/Gasoline,Manual,Employee's car,21980,125,2020
+13795,ford,puma,Electric/Gasoline,Manual,Employee's car,22480,155,2020
+15,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15980,69,2021
+30000,nissan,leaf,Electric,unknown gear,Used,11100,109,2012
+9790,volkswagen,up!,Electric,Automatic,Used,12730,82,2013
+24024,smart,fortwo,Electric,Automatic,Used,9777,82,2017
+52800,smart,fortwo,Electric,Automatic,Used,7290,48,2015
+40910,toyota,rav 4,Electric/Gasoline,Automatic,Used,26000,197,2017
+43373,toyota,rav 4,Electric/Gasoline,Automatic,Used,24585,197,2018
+38010,toyota,rav 4,Electric/Gasoline,Automatic,Used,25985,197,2018
+9822,jaguar,i-pace,Electric,Automatic,Used,58450,400,2019
+12000,land,rover range rover,Electric/Gasoline,Automatic,Used,116500,404,2019
+8100,smart,forfour,Electric,unknown gear,Used,11800,82,2019
+1500,mazda,cx-30,Electric/Gasoline,Manual,Demonstration,27890,186,2021
+367000,toyota,auris,Electric/Gasoline,Automatic,Used,7300,99,2015
+49000,toyota,yaris,Electric/Gasoline,Automatic,Used,13460,101,2018
+3000,zhidou,d2s,Electric,Automatic,Demonstration,12500,24,2019
+10669,volvo,s90,Electric/Gasoline,Automatic,Used,48490,303,2020
+16951,volvo,v60,Electric/Gasoline,Automatic,Used,49770,390,2020
+210,volvo,s90,Electric/Gasoline,Automatic,Used,49900,392,2020
+14148,volvo,v60,Electric/Gasoline,Automatic,Used,49990,390,2020
+9442,audi,q5,Electric/Gasoline,Automatic,Used,52650,299,2020
+10,toyota,yaris,Electric/Gasoline,Automatic,Pre-registered,25660,116,2021
+8,toyota,prius+,Electric/Gasoline,Automatic,Pre-registered,26460,136,2021
+1500,hyundai,ioniq,Electric,Automatic,Demonstration,27790,136,2021
+115000,lexus,gs 450h,Electric/Gasoline,Automatic,Used,13900,345,2011
+143920,mercedes-benz,e 300,Electric/Diesel,Automatic,Used,14480,204,2013
+24000,toyota,yaris,Electric/Gasoline,Automatic,Used,14850,75,2019
+58200,renault,zoe,Electric,Automatic,Used,7998,58,2015
+29999,renault,zoe,Electric,Automatic,Used,7900,88,2016
+42500,kia,niro,Electric/Gasoline,Automatic,Used,18790,105,2017
+125000,audi,q7,Electric/Diesel,Automatic,Used,46999,374,2018
+22334,volkswagen,up!,Electric,Automatic,Used,11405,82,2014
+36861,renault,zoe,Electric,Automatic,Used,12575,92,2018
+10,suzuki,sx4 s-cross,Electric/Gasoline,Manual,Pre-registered,18990,129,2020
+3990,mazda,mx-30,Electric,Automatic,Used,21900,145,2020
+10,suzuki,swift,Electric/Gasoline,Automatic,Demonstration,16900,83,2021
+10,renault,twingo,Electric,Automatic,Used,16975,82,2021
+63000,honda,cr-z,Electric/Gasoline,Manual,Used,7800,114,2011
+78000,nissan,leaf,Electric,unknown gear,Used,9500,109,2015
+47000,volvo,xc60,Electric/Gasoline,Automatic,Used,46999,303,2019
+17900,mercedes-benz,eqc 400,Electric,Automatic,Used,62950,408,2019
+3666,hyundai,kona,Electric/Gasoline,Automatic,Used,21990,105,2020
+97722,toyota,prius,Electric/Gasoline,Automatic,Used,10200,99,2011
+111600,toyota,prius,Electric/Gasoline,Automatic,Used,10397,136,2011
+71300,toyota,auris,Electric/Gasoline,Automatic,Used,12790,136,2013
+289000,mercedes-benz,e 300,Electric/Diesel,Automatic,Used,12800,204,2014
+8500,nissan,leaf,Electric,Automatic,Used,12950,109,2014
+101003,toyota,auris,Electric/Gasoline,Automatic,Used,13980,136,2015
+35950,toyota,yaris,Electric/Gasoline,Automatic,Used,12497,101,2016
+27465,smart,forfour,Electric,Automatic,Used,10490,82,2018
+13100,smart,forfour,Electric,Automatic,Used,10590,82,2019
+139,renault,twingo,Electric,Automatic,Demonstration,15990,0,2021
+83000,lexus,ct 200h,Electric/Gasoline,Automatic,Used,16990,136,2011
+17593,renault,zoe,Electric,Automatic,Used,9995,92,2017
+870,volkswagen,id.3,Electric,Automatic,Used,34400,204,2020
+8450,volkswagen,id.3,Electric,Automatic,Used,34450,204,2020
+1950,volkswagen,id.3,Electric,Automatic,Used,34550,204,2020
+22167,toyota,rav 4,Electric/Gasoline,Automatic,Used,34990,178,2020
+11300,lexus,is 300,Electric/Gasoline,Automatic,Used,35390,223,2020
+41593,renault,zoe,Electric,Automatic,Used,6900,58,2014
+48000,renault,zoe,Electric,unknown gear,Used,7400,92,2015
+125343,mercedes-benz,unknown model,Electric/Gasoline,Automatic,Used,29990,211,2017
+20459,volkswagen,up!,Electric,Automatic,Used,15975,83,2019
+13680,toyota,yaris,Electric/Gasoline,Automatic,Used,15980,101,2019
+12,hyundai,kona,Electric/Gasoline,Manual,Pre-registered,26770,141,2020
+6000,opel,ampera,Electric,Automatic,Used,26950,204,2020
+18399,toyota,corolla,Electric/Gasoline,Automatic,Employee's car,26979,184,2020
+12,hyundai,kona,Electric/Gasoline,Manual,Pre-registered,26990,141,2020
+10,hyundai,ioniq,Electric,Automatic,Demonstration,27350,120,2020
+5,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,28165,184,2021
+0,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,28200,150,2021
+9,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,28775,184,2021
+10,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,33999,230,2021
+30560,toyota,c-hr,Electric/Gasoline,Automatic,Used,18960,122,2018
+29653,toyota,c-hr,Electric/Gasoline,Automatic,Used,20960,122,2019
+25355,volvo,v90,Electric/Gasoline,Automatic,Used,55980,303,2020
+27500,volvo,v90,Electric/Gasoline,Automatic,Demonstration,57900,390,2020
+20100,volvo,v90,Electric/Gasoline,Automatic,Demonstration,58900,390,2020
+4,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,30660,179,2021
+10,toyota,corolla,Electric/Gasoline,Automatic,Used,31460,179,2021
+8,toyota,c-hr,Electric/Gasoline,Automatic,Pre-registered,31660,184,2021
+10,toyota,camry,Electric/Gasoline,Automatic,Used,36960,218,2021
+5900,audi,a3,Electric/Gasoline,Automatic,Demonstration,39949,150,2021
+22165,volkswagen,up!,Electric,Automatic,Used,12990,82,2015
+18800,peugeot,partner,Electric,Automatic,Used,10490,67,2016
+10347,smart,fortwo,Electric,Automatic,Used,14990,82,2019
+32000,smart,fortwo,Electric,unknown gear,Used,8200,48,2015
+33200,renault,zoe,Electric,Automatic,Used,7995,58,2016
+13000,renault,zoe,Electric,Automatic,Used,11990,92,2018
+39980,toyota,auris,Electric/Gasoline,Automatic,Used,16700,99,2018
+7543,lexus,ux 250h,Electric/Gasoline,Automatic,Employee's car,31980,184,2020
+5,renault,captur,Electric/Gasoline,Automatic,Used,32990,91,2020
+123500,toyota,auris,Electric/Gasoline,Automatic,Used,10850,99,2013
+98600,volkswagen,jetta,Electric/Gasoline,Automatic,Used,10900,150,2013
+45565,toyota,yaris,Electric/Gasoline,Automatic,Used,11980,101,2015
+41600,toyota,yaris,Electric/Gasoline,Automatic,Used,11499,75,2016
+4600,jeep,renegade,Electric/Gasoline,Automatic,Used,32990,241,2020
+990,seat,leon,Electric/Gasoline,Automatic,Demonstration,33900,204,2020
+3000,hyundai,i20,Electric/Gasoline,Manual,Demonstration,17390,101,2021
+6000,toyota,rav 4,Electric/Gasoline,Automatic,Demonstration,34980,218,2020
+366,fiat,500,Electric/Gasoline,Manual,Demonstration,14485,69,2021
+96349,lexus,ct 200h,Electric/Gasoline,Automatic,Used,10750,136,2011
+65050,toyota,auris,Electric/Gasoline,Automatic,Used,12990,136,2013
+59800,toyota,auris,Electric/Gasoline,Automatic,Used,13290,136,2013
+41153,toyota,auris,Electric/Gasoline,Automatic,Used,14250,136,2015
+21500,smart,fortwo,Electric,Automatic,Used,10999,82,2018
+5500,ford,mondeo,Electric/Gasoline,Automatic,Used,23990,188,2020
+1300,toyota,corolla,Electric/Gasoline,Automatic,Demonstration,24900,122,2020
+67436,toyota,prius,Electric/Gasoline,Automatic,Used,12290,99,2012
+129000,toyota,prius,Electric/Gasoline,Automatic,Used,12900,136,2015
+3,fiat,500,Electric/Gasoline,Manual,Demonstration,13028,69,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13221,69,2021
+50,fiat,500,Electric/Gasoline,Manual,Demonstration,13518,69,2021
+118751,porsche,cayenne,Electric/Gasoline,Automatic,Used,53947,333,2017
+23000,renault,zoe,Electric,Automatic,Used,7990,58,2017
+634,toyota,yaris,Electric/Gasoline,Automatic,Used,16650,99,2019
+61400,ford,mondeo,Electric/Gasoline,Automatic,Used,18650,188,2019
+2324,toyota,c-hr,Electric/Gasoline,Automatic,Demonstration,34490,184,2021
+1500,hyundai,tucson,Electric/Gasoline,Automatic,Demonstration,37450,265,2021
+10,ford,tourneo custom,Electric/Diesel,Manual,Pre-registered,37999,185,2021
+999,toyota,c-hr,Electric/Gasoline,Manual,Demonstration,38790,152,2021
+17791,toyota,corolla,Electric/Gasoline,Automatic,Used,23960,179,2019
+15000,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,58920,392,2020
+21500,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,60950,392,2020
+24765,volvo,v90,Electric/Gasoline,Automatic,Demonstration,61910,390,2020
+9500,audi,q5,Electric/Gasoline,Automatic,Demonstration,62850,367,2020
+10125,audi,a6,Electric/Gasoline,Automatic,Used,68670,367,2020
+6000,audi,a6,Electric/Gasoline,Automatic,Demonstration,70950,367,2020
+4900,skoda,enyaq,Electric,Automatic,Used,47350,204,2021
+29361,bmw,i3,Electric,Automatic,Used,15950,170,2014
+23134,smart,fortwo,Electric,Automatic,Used,10990,82,2018
+15800,renault,zoe,Electric,Automatic,Used,15490,72,2019
+6500,suzuki,ignis,Electric/Gasoline,Manual,Demonstration,15975,83,2020
+1500,renault,twingo,Electric,Automatic,Demonstration,19890,82,2021
+38000,tazzari,ev zero classic,Electric,unknown gear,Used,6500,20,2012
+69659,peugeot,ion,Electric,unknown gear,Used,7999,67,2014
+34281,renault,zoe,Electric,Automatic,Used,8230,88,2016
+55000,renault,twizy,Electric,unknown gear,Used,3000,11,2017
+50,toyota,rav 4,Electric/Gasoline,Automatic,Used,37100,178,2020
+5000,opel,grandland x,Electric/Gasoline,Automatic,Used,37500,181,2020
+100,fiat,panda,Electric/Gasoline,Manual,Demonstration,12990,69,2021
+61690,toyota,auris,Electric/Gasoline,Automatic,Used,10450,136,2012
+89921,peugeot,3008,Electric/Diesel,Automatic,Used,12450,163,2014
+51800,toyota,yaris,Electric/Gasoline,Automatic,Used,11840,101,2016
+9985,renault,zoe,Electric,Automatic,Demonstration,13575,109,2019
+53,mazda,2,Electric/Gasoline,Manual,Demonstration,17750,90,2021
+77031,toyota,yaris,Electric/Gasoline,Automatic,Used,10450,101,2015
+91000,renault,zoe,Electric,Automatic,Used,8980,58,2017
+40631,renault,zoe,Electric,Automatic,Used,8990,58,2017
+22324,renault,zoe,Electric,Automatic,Used,9088,92,2017
+19028,mercedes-benz,glc 200,Electric/Gasoline,Automatic,Used,42900,197,2020
+13500,volvo,xc40,Electric/Gasoline,Automatic,Demonstration,46900,179,2020
+1,fiat,500,Electric/Gasoline,Manual,Pre-registered,14750,71,2021
+50000,toyota,yaris,Electric/Gasoline,Automatic,Used,12990,101,2016
+7239,smart,fortwo,Electric,Automatic,Used,11990,82,2019
+17500,ford,puma,Electric/Gasoline,Manual,Demonstration,25980,155,2020
+15,fiat,500c,Electric/Gasoline,Manual,Pre-registered,16480,69,2021
+2400,smart,forfour,Electric,Automatic,Demonstration,16490,82,2021
+30123,volkswagen,up!,Electric,Automatic,Used,13223,82,2015
+39758,toyota,auris,Electric/Gasoline,Automatic,Used,13340,136,2015
+101527,toyota,auris,Electric/Gasoline,Automatic,Used,11550,99,2016
+8000,renault,zoe,Electric,Automatic,Demonstration,10995,92,2018
+28866,renault,zoe,Electric,Automatic,Used,11495,109,2019
+1800,kia,sorento,Electric/Gasoline,Automatic,Demonstration,40390,179,2020
+4100,volkswagen,id.3,Electric,Automatic,Demonstration,41450,204,2020
+11500,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,41600,156,2020
+2,fiat,500,Electric/Gasoline,Manual,Demonstration,13619,69,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13790,69,2021
+19153,renault,zoe,Electric,Automatic,Used,7790,58,2015
+56000,porsche,panamera,Electric/Gasoline,Automatic,Used,91500,462,2018
+79000,porsche,cayenne,Electric/Gasoline,Automatic,Used,93500,340,2018
+5000,hyundai,ioniq,Electric,Automatic,Used,28790,136,2020
+15,hyundai,kona,Electric,Automatic,Demonstration,28850,136,2020
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,28850,105,2020
+7661,audi,a3,Electric/Gasoline,Automatic,Used,29229,204,2020
+7550,tesla,model 3,Electric,Automatic,Used,40950,325,2021
+10,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,42450,265,2021
+5000,volkswagen,tiguan,Electric/Gasoline,Automatic,Demonstration,43870,150,2021
+50,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,48990,265,2021
+31940,renault,zoe,Electric,Automatic,Used,7950,58,2015
+13900,renault,twizy,Electric,unknown gear,Used,5990,11,2017
+29540,volkswagen,golf,Electric/Gasoline,Automatic,Used,26879,204,2018
+35978,hyundai,kona,Electric,Automatic,Used,27990,204,2018
+14961,audi,q7,Electric/Gasoline,Automatic,Used,77770,381,2020
+14999,audi,a8,Electric/Gasoline,Automatic,Used,79660,449,2020
+1500,renault,clio,Electric/Gasoline,Automatic,Demonstration,19980,140,2021
+42955,renault,kangoo z.e.,Electric,Automatic,Used,8490,60,2014
+37799,renault,zoe,Electric,Automatic,Used,8340,88,2016
+50230,renault,zoe,Electric,Automatic,Used,8398,58,2016
+9950,bmw,i8,Electric/Gasoline,Automatic,Used,113890,374,2018
+5410,lexus,unknown model,Electric/Gasoline,Automatic,Used,39950,197,2020
+4685,seat,leon,Electric/Gasoline,Automatic,Used,41400,245,2020
+50,toyota,rav 4,Electric/Gasoline,Automatic,Pre-registered,43490,222,2020
+1926,mitsubishi,outlander,Electric/Gasoline,Automatic,Demonstration,44102,135,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13490,69,2021
+132130,toyota,prius,Electric/Gasoline,Automatic,Used,8990,99,2011
+94000,toyota,auris,Electric/Gasoline,Automatic,Used,11850,99,2013
+108000,toyota,auris,Electric/Gasoline,Automatic,Used,11900,136,2013
+79000,toyota,auris,Electric/Gasoline,Automatic,Used,11950,136,2013
+54800,toyota,yaris,Electric/Gasoline,Automatic,Used,12850,75,2015
+14577,renault,zoe,Electric,Manual,Demonstration,10660,92,2017
+10433,smart,forfour,Electric,Automatic,Used,13790,82,2019
+8954,renault,zoe,Electric,Automatic,Used,12775,92,2020
+90000,toyota,prius,Electric/Gasoline,Automatic,Used,10385,99,2012
+34852,smart,forfour,Electric,Automatic,Used,9440,56,2018
+14000,mercedes-benz,e 300,Electric/Diesel,Automatic,Used,59890,194,2020
+4904,audi,e-tron,Electric,Automatic,Employee's car,59980,215,2020
+97987,tesla,model s,Electric,Automatic,Used,29199,306,2013
+36562,audi,a3,Electric/Gasoline,Automatic,Used,18445,150,2014
+31690,volkswagen,up!,Electric,Automatic,Used,9940,82,2015
+20500,volkswagen,golf,Electric,Automatic,Used,17440,116,2017
+12000,fiat,500,Electric/Gasoline,Manual,Demonstration,13950,69,2020
+3800,seat,mii,Electric,Automatic,Used,15840,83,2020
+20,skoda,octavia,Electric/Gasoline,Automatic,Pre-registered,27980,150,2021
+10,mazda,cx-30,Electric/Gasoline,Automatic,Demonstration,29900,186,2021
+111000,peugeot,3008,Electric/Diesel,Automatic,Used,7940,163,2012
+33200,volkswagen,golf,Electric,Automatic,Used,19666,136,2017
+11310,volkswagen,golf,Electric,Automatic,Used,20980,136,2019
+85990,toyota,prius,Electric/Gasoline,Automatic,Used,11590,99,2011
+153969,audi,a6,Electric/Gasoline,Automatic,Used,14780,211,2012
+56210,toyota,prius,Electric/Gasoline,Automatic,Used,15450,99,2014
+42112,smart,fortwo,Electric,Automatic,Used,10779,82,2018
+11845,renault,zoe,Electric,Automatic,Used,10990,72,2019
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,13475,69,2021
+5,seat,mii,Electric,Automatic,Demonstration,14290,83,2021
+1623,fiat,500,Electric/Gasoline,Manual,Used,15148,69,2021
+71995,lexus,is 300,Electric/Gasoline,Automatic,Used,20470,181,2013
+36867,renault,zoe,Electric,Automatic,Used,9250,58,2014
+80499,audi,a3,Electric/Gasoline,Automatic,Used,15630,150,2015
+23000,smart,forfour,Electric,Manual,Used,12888,82,2018
+53500,renault,zoe,Electric,Automatic,Used,9990,58,2019
+150,others,unknown model,Electric,Automatic,Employee's car,4490,0,2020
+2797,suzuki,swift,Electric/Gasoline,Manual,Demonstration,14455,83,2020
+1111,seat,mii,Electric,Automatic,Demonstration,17280,83,2020
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,12990,69,2021
+40,kia,niro,Electric/Gasoline,Automatic,Demonstration,29700,141,2021
+10,kia,sorento,Electric/Gasoline,Automatic,Pre-registered,49500,265,2021
+66500,peugeot,ion,Electric,Automatic,Used,6450,48,2012
+37250,toyota,auris,Electric/Gasoline,Automatic,Used,13950,99,2013
+35501,renault,zoe,Electric,Manual,Used,7560,58,2014
+106900,toyota,yaris,Electric/Gasoline,Automatic,Used,9950,101,2015
+65000,bmw,i3,Electric,Automatic,Used,14999,102,2015
+58500,toyota,yaris,Electric/Gasoline,Automatic,Used,11990,101,2016
+12400,volkswagen,up!,Electric,Automatic,Used,12960,82,2017
+25433,toyota,yaris,Electric/Gasoline,Automatic,Used,13990,101,2018
+1005,renault,twizy,Electric,Automatic,Demonstration,10070,11,2020
+20,toyota,yaris,Electric/Gasoline,Automatic,Pre-registered,18990,116,2021
+20,subaru,xv,Electric/Gasoline,Automatic,Pre-registered,29990,150,2021
+20,subaru,forester,Electric/Gasoline,Automatic,Pre-registered,32990,150,2021
+20,ford,mustang,Electric,Manual,Pre-registered,58440,294,2021
+15331,renault,kangoo z.e.,Electric,Automatic,Used,8990,60,2014
+28844,renault,zoe,Electric,Automatic,Used,7900,92,2014
+51201,renault,kangoo z.e.,Electric,Automatic,Used,8760,60,2014
+51355,renault,twizy,Electric,Automatic,Used,4990,5,2017
+38637,renault,kangoo z.e.,Electric,Automatic,Used,9990,60,2017
+42000,toyota,yaris,Electric/Gasoline,Automatic,Used,12190,75,2017
+6900,renault,zoe,Electric,Automatic,Demonstration,11080,58,2019
+8840,renault,zoe,Electric,Automatic,Demonstration,11680,72,2019
+12328,renault,zoe,Electric,Automatic,Demonstration,13880,69,2019
+9837,renault,zoe,Electric,Automatic,Used,15890,72,2019
+100,renault,zoe,Electric,Automatic,Pre-registered,14180,58,2020
+100,renault,zoe,Electric,Automatic,Pre-registered,14480,58,2020
+100,renault,zoe,Electric,Automatic,Pre-registered,15080,72,2020
+10,hyundai,i30,Electric/Gasoline,Manual,Pre-registered,18590,120,2021
+100,renault,clio,Electric/Gasoline,Automatic,Pre-registered,21380,91,2021
+48500,nissan,leaf,Electric,Automatic,Used,14990,109,2015
+11447,smart,fortwo,Electric,Automatic,Used,12470,82,2019
+10,seat,leon,Electric/Gasoline,Automatic,Pre-registered,27037,150,2020
+10,seat,leon,Electric/Gasoline,Automatic,Pre-registered,27368,150,2020
+15,fiat,500c,Electric/Gasoline,Manual,Pre-registered,16780,69,2021
+42800,bmw,i3,Electric,Automatic,Used,14550,102,2014
+47610,opel,ampera,Electric,Automatic,Used,14600,151,2014
+15500,nissan,e-nv200,Electric,Automatic,Used,13980,109,2015
+35000,toyota,yaris,Electric/Gasoline,Automatic,Used,11900,75,2016
+12500,renault,zoe,Electric,Automatic,Demonstration,11995,72,2019
+29950,smart,forfour,Electric,Automatic,Used,12490,82,2019
+4000,mercedes-benz,c 300,Electric/Diesel,Automatic,Demonstration,45890,194,2020
+41500,renault,zoe,Electric,unknown gear,Used,7700,92,2016
+65000,audi,a5,Electric/Gasoline,Automatic,Used,26990,252,2017
+39000,porsche,panamera,Electric/Gasoline,Automatic,Used,102500,462,2018
+8590,nissan,leaf,Electric,Automatic,Demonstration,22222,150,2019
+8409,hyundai,kona,Electric,Automatic,Demonstration,29681,136,2020
+1912,hyundai,ioniq,Electric,Automatic,Demonstration,30950,136,2020
+2100,polestar,2,Electric,Automatic,Used,64950,408,2021
+5000,audi,e-tron,Electric,Automatic,Demonstration,93875,408,2021
+15000,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,129750,560,2020
+15000,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,162900,680,2020
+5600,smart,fortwo,Electric,unknown gear,Used,16499,82,2020
+19584,volkswagen,up!,Electric,Automatic,Used,11480,82,2016
+22114,toyota,yaris,Electric/Gasoline,Automatic,Used,16450,101,2019
+10,ford,fiesta,Electric/Gasoline,Manual,Used,19990,125,2021
+20,renault,zoe,Electric,Automatic,Pre-registered,19990,136,2021
+75100,toyota,yaris,Electric/Gasoline,Automatic,Used,8300,75,2013
+10000,renault,zoe,Electric,Automatic,Used,8500,58,2016
+9133,bmw,330,Electric/Gasoline,Automatic,Demonstration,46950,292,2020
+24997,bmw,530,Electric/Gasoline,Automatic,Employee's car,53320,252,2020
+98850,toyota,auris,Electric/Gasoline,Automatic,Used,13150,136,2014
+62239,volkswagen,up!,Electric,Automatic,Used,10977,82,2017
+19260,smart,fortwo,Electric,Automatic,Used,13690,82,2018
+7500,renault,zoe,Electric,Automatic,Demonstration,13960,58,2019
+9495,smart,forfour,Electric,Automatic,Used,13990,82,2019
+16500,smart,fortwo,Electric,Automatic,Used,9769,56,2017
+1,fiat,500,Electric/Gasoline,Manual,Pre-registered,14950,69,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,14980,69,2021
+1,fiat,500,Electric/Gasoline,Manual,Pre-registered,14990,71,2021
+54700,audi,a3,Electric/Gasoline,Automatic,Used,19990,204,2017
+130000,lexus,gs 450h,Electric/Gasoline,Automatic,Used,25990,345,2012
+11950,volkswagen,golf,Electric,Automatic,Used,21720,136,2019
+9990,volkswagen,golf,Electric,Automatic,Used,21940,136,2019
+86789,toyota,auris,Electric/Gasoline,Automatic,Used,11795,136,2014
+15600,kia,soul,Electric,Automatic,Used,14980,110,2015
+27566,renault,zoe,Electric,Automatic,Used,11990,58,2017
+11867,renault,zoe,Electric,Automatic,Used,12990,58,2018
+1376,fiat,500,Electric/Gasoline,Manual,Used,15298,69,2021
+110000,lexus,ls 600,Electric/Gasoline,Automatic,Used,33990,445,2013
+71099,tesla,model s,Electric,Automatic,Used,54450,772,2015
+23888,porsche,panamera,Electric/Gasoline,Automatic,Used,62900,416,2015
+5500,smart,fortwo,Electric,Automatic,Used,18888,82,2019
+2280,volkswagen,unknown model,Electric,Automatic,Employee's car,17990,83,2020
+10,suzuki,vitara,Electric/Gasoline,Manual,Pre-registered,19450,129,2020
+5,suzuki,swift,Electric/Gasoline,Manual,Pre-registered,17475,129,2021
+5,suzuki,swift,Electric/Gasoline,Manual,Pre-registered,17945,129,2021
+5,suzuki,vitara,Electric/Gasoline,Manual,Pre-registered,19385,129,2021
+27275,toyota,yaris,Electric/Gasoline,Automatic,Used,13290,75,2016
+1000,opel,mokka,Electric,Automatic,Demonstration,31980,136,2021
+12,opel,corsa,Electric,Automatic,Demonstration,36980,136,2021
+1450,opel,corsa,Electric,Automatic,Demonstration,40048,136,2021
+171089,mercedes-benz,300,Electric/Diesel,Automatic,Used,14500,204,2012
+136850,toyota,auris,Electric/Gasoline,Automatic,Used,10960,136,2013
+45100,smart,fortwo,Electric,unknown gear,Used,5249,48,2013
+250000,volvo,v60,Electric/Diesel,Automatic,Used,11999,288,2015
+77000,bmw,i3,Electric/Gasoline,Automatic,Used,16499,102,2016
+77000,bmw,i3,Electric,Automatic,Used,16499,102,2016
+30248,toyota,yaris,Electric/Gasoline,Automatic,Used,13890,101,2017
+51700,nissan,leaf,Electric,Automatic,Used,13900,109,2017
+92594,bmw,225,Electric/Gasoline,Automatic,Used,15860,136,2017
+27000,kia,niro,Electric/Gasoline,Automatic,Used,15999,105,2018
+49900,toyota,auris,Electric/Gasoline,Automatic,Used,16960,132,2018
+1163,suzuki,ignis,Electric/Gasoline,Automatic,Employee's car,14999,83,2020
+100,nissan,leaf,Electric,Automatic,Used,23490,150,2021
+20,ford,puma,Electric/Gasoline,Manual,Pre-registered,25995,155,2020
+34853,renault,kangoo z.e.,Electric,Automatic,Used,10990,60,2016
+15127,renault,kangoo z.e.,Electric,Automatic,Used,15990,60,2019
+9606,renault,zoe,Electric,Automatic,Used,16990,72,2019
+3781,renault,clio,Electric/Gasoline,Automatic,Demonstration,16080,91,2020
+18349,renault,zoe,Electric,Automatic,Used,16990,69,2020
+9543,renault,kangoo z.e.,Electric,Automatic,Used,17890,60,2020
+10,hyundai,tucson,Electric/Diesel,Automatic,Pre-registered,32990,136,2021
+161300,renault,kangoo z.e.,Electric,Automatic,Used,4300,60,2012
+12000,renault,twizy,Electric,unknown gear,Used,4950,11,2014
+37549,volkswagen,golf,Electric/Gasoline,Automatic,Used,20490,150,2016
+1500,nissan,leaf,Electric,Automatic,Used,22490,150,2020
+10,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,23880,141,2020
+100,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,24880,141,2020
+1000,hyundai,ioniq,Electric,Automatic,Demonstration,46880,218,2021
+10000,volkswagen,touareg,Electric/Gasoline,Automatic,Demonstration,84440,462,2021
+29897,bmw,225,Electric/Gasoline,Automatic,Used,17490,224,2017
+8800,smart,forfour,Electric,Automatic,Demonstration,11890,82,2018
+21500,smart,fortwo,Electric,Automatic,Used,14480,56,2018
+100,volkswagen,up!,Electric,Automatic,Used,15250,82,2018
+16410,volkswagen,golf,Electric,Automatic,Employee's car,22870,136,2020
+11860,volkswagen,golf,Electric,Automatic,Used,23740,136,2020
+10,skoda,octavia,Electric/Gasoline,Automatic,Pre-registered,29690,150,2021
+25,volkswagen,golf,Electric/Gasoline,Automatic,Pre-registered,29890,150,2021
+7500,fisker,karma,Electric/Gasoline,Automatic,Used,69900,408,2012
+44300,renault,twizy,Electric,unknown gear,Used,4600,11,2013
+70095,toyota,auris,Electric/Gasoline,Automatic,Used,14777,136,2015
+54895,kia,niro,Electric/Gasoline,Automatic,Used,16490,105,2016
+87353,kia,niro,Electric/Gasoline,Automatic,Used,16479,141,2018
+1512,renault,zoe,Electric,Automatic,Used,15400,69,2019
+2901,renault,zoe,Electric,Automatic,Used,15400,69,2020
+11601,nissan,e-nv200,Electric,Automatic,Used,17490,109,2015
+57890,audi,a3,Electric/Gasoline,Automatic,Used,19980,150,2016
+54074,toyota,auris,Electric/Gasoline,Automatic,Used,15450,136,2017
+21074,audi,a3,Electric/Gasoline,Automatic,Used,17440,204,2017
+5,suzuki,vitara,Electric/Gasoline,Manual,Pre-registered,19695,129,2020
+5,suzuki,vitara,Electric/Gasoline,Manual,Pre-registered,19745,129,2020
+6523,renault,zoe,Electric,Automatic,Demonstration,20562,109,2020
+50,mazda,mx-30,Electric,Manual,Demonstration,21990,110,2021
+33750,bmw,330,Electric/Gasoline,Automatic,Used,27939,252,2018
+22466,toyota,c-hr,Electric/Gasoline,Automatic,Used,18980,122,2019
+19980,toyota,corolla,Electric/Gasoline,Automatic,Used,21980,122,2020
+2977,mazda,2,Electric/Gasoline,Manual,Demonstration,18400,75,2021
+32155,renault,zoe,Electric,Automatic,Used,7880,88,2015
+43219,toyota,c-hr,Electric/Gasoline,Automatic,Used,18700,98,2018
+50714,ford,mondeo,Electric/Gasoline,Automatic,Used,19900,188,2019
+18350,toyota,corolla,Electric/Gasoline,Automatic,Used,19980,122,2019
+21500,toyota,c-hr,Electric/Gasoline,Automatic,Used,19990,122,2019
+5100,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,20993,141,2019
+20,toyota,yaris,Electric/Gasoline,Automatic,Pre-registered,19790,116,2020
+20,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,26490,184,2021
+15,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,26880,105,2021
+2574,mini,cooper s,Electric,Automatic,Demonstration,27360,184,2021
+5,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,28480,141,2021
+500,nissan,nv200,Electric,Automatic,Used,28490,109,2021
+25,subaru,forester,Electric/Gasoline,Automatic,Pre-registered,29990,150,2020
+3900,mitsubishi,outlander,Electric/Gasoline,Automatic,Demonstration,33300,135,2020
+9000,volkswagen,passat,Electric/Gasoline,Automatic,Demonstration,33990,156,2020
+22551,smart,forfour,Electric,Automatic,Used,9850,82,2017
+19800,renault,zoe,Electric,Automatic,Used,9990,58,2018
+15538,smart,fortwo,Electric,Automatic,Used,11333,82,2018
+1150,renault,clio,Electric/Gasoline,Automatic,Demonstration,20680,91,2020
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,21490,105,2020
+2264,renault,captur,Electric/Gasoline,Automatic,Used,24990,91,2020
+1850,renault,twingo,Electric,Automatic,Demonstration,26330,42,2020
+1500,volkswagen,golf,Electric/Gasoline,Automatic,Demonstration,41450,150,2021
+60000,renault,zoe,Electric,Automatic,Used,5799,58,2014
+16165,renault,twizy,Electric,Automatic,Used,6590,11,2015
+990,nissan,leaf,Electric,Automatic,Used,25480,150,2020
+10,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,25880,141,2020
+10,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,28480,141,2020
+6500,audi,e-tron,Electric,Automatic,Demonstration,103940,503,2021
+1100,land,rover range rover,Electric/Gasoline,Automatic,Used,112500,404,2021
+1000,land,rover range rover,Electric/Gasoline,Automatic,Pre-registered,124980,404,2021
+40000,smart,fortwo,Electric,Automatic,Used,5550,48,2014
+30000,renault,zoe,Electric,Automatic,Used,5995,92,2014
+4700,smart,forfour,Electric,Automatic,Demonstration,13480,82,2019
+14550,volkswagen,golf,Electric,Automatic,Used,23970,136,2020
+350,volkswagen,golf,Electric,Automatic,Used,24870,136,2020
+5400,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,25790,140,2020
+10,hyundai,tucson,Electric/Diesel,Automatic,Pre-registered,30990,136,2021
+49000,renault,zoe,Electric,Automatic,Used,7555,58,2014
+5,kia,niro,Electric/Gasoline,Automatic,Demonstration,22979,141,2021
+300,opel,corsa,Electric,Automatic,Demonstration,23540,136,2021
+10,ford,fiesta,Electric/Gasoline,Manual,Demonstration,23690,125,2021
+10,ford,puma,Electric/Gasoline,Manual,Demonstration,23750,155,2021
+68904,toyota,auris,Electric/Gasoline,Automatic,Used,11860,136,2013
+40960,audi,a3,Electric/Gasoline,Automatic,Used,18333,204,2017
+30369,volkswagen,golf,Electric,Automatic,Used,21899,136,2018
+10,suzuki,swace,Electric/Gasoline,Automatic,Pre-registered,23965,122,2021
+269,mazda,mx-30,Electric,Manual,Demonstration,24290,110,2021
+14650,opel,grandland x,Electric/Gasoline,Automatic,Demonstration,34980,300,2020
+18340,peugeot,508,Electric/Gasoline,Automatic,Used,36770,224,2020
+100,lexus,rc 300h,Electric/Gasoline,Automatic,Demonstration,47890,223,2020
+7435,lexus,rx 450h,Electric/Gasoline,Automatic,Demonstration,72990,313,2020
+10100,ford,fiesta,Electric/Gasoline,Manual,Used,17650,125,2020
+123000,toyota,auris,Electric/Gasoline,Automatic,Used,11000,99,2014
+32483,toyota,auris,Electric/Gasoline,Automatic,Used,13850,99,2015
+58000,toyota,rav 4,Electric/Gasoline,Automatic,Used,24990,155,2017
+8700,bmw,i3,Electric/Gasoline,Automatic,Used,23900,170,2018
+13650,bmw,i3,Electric,Automatic,Used,24500,184,2018
+10650,ford,mondeo,Electric/Gasoline,Automatic,Demonstration,24569,140,2019
+18458,ford,puma,Electric/Gasoline,Manual,Employee's car,21350,125,2020
+8146,ford,puma,Electric/Gasoline,Manual,Employee's car,21930,125,2020
+15,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,22493,105,2020
+4800,mazda,mx-30,Electric,Automatic,Demonstration,22550,145,2020
+3000,toyota,prius,Electric/Gasoline,Automatic,Demonstration,28990,122,2021
+1500,fiat,500,Electric,Automatic,Demonstration,30990,58,2021
+5000,opel,mokka,Electric,Automatic,Demonstration,32495,136,2021
+0,fiat,500,Electric,Automatic,Demonstration,32990,0,2021
+20,toyota,rav 4,Electric/Gasoline,Automatic,Pre-registered,32990,218,2021
+13200,renault,twizy,Electric,Automatic,Used,4900,11,2016
+10990,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,23290,141,2019
+3666,jaguar,i-pace,Electric,Automatic,Demonstration,61500,400,2020
+25,hyundai,i20,Electric/Gasoline,Manual,Pre-registered,19990,101,2021
+22525,smart,forfour,Electric,Automatic,Used,11333,82,2019
+4440,smart,forfour,Electric,Automatic,Used,11980,82,2019
+6742,smart,fortwo,Electric,Automatic,Used,12500,82,2019
+11367,smart,forfour,Electric,Automatic,Used,12660,82,2019
+5439,smart,fortwo,Electric,Automatic,Used,13480,82,2019
+13945,smart,fortwo,Electric,Automatic,Used,13490,82,2019
+69020,toyota,yaris,Electric/Gasoline,Automatic,Used,13799,101,2019
+71200,toyota,yaris,Electric/Gasoline,Automatic,Used,13850,101,2019
+2005,opel,mokka-e,Electric,Automatic,Demonstration,26880,136,2021
+9249,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,52950,303,2019
+10,nissan,e-nv200,Electric,Automatic,Used,28500,109,2020
+10,mazda,cx-30,Electric/Gasoline,Manual,Pre-registered,28870,122,2020
+4000,honda,cr-v,Electric/Gasoline,Automatic,Demonstration,29870,184,2020
+8000,jeep,renegade,Electric/Gasoline,Automatic,Demonstration,29950,181,2020
+10,ford,fiesta,Electric/Gasoline,Manual,Pre-registered,25590,155,2021
+98455,bmw,530,Electric/Gasoline,Automatic,Used,29680,184,2017
+55823,mercedes-benz,c 350,Electric/Gasoline,Automatic,Used,28220,211,2018
+7800,toyota,corolla,Electric/Gasoline,Automatic,Used,21990,122,2019
+1500,skoda,enyaq,Electric,Automatic,Demonstration,47890,204,2021
+3000,audi,a6,Electric/Gasoline,Automatic,Employee's car,67450,367,2021
+1000,others,unknown model,Electric,Automatic,Used,3580,5,2012
+81322,lexus,gs 450h,Electric/Gasoline,Automatic,Used,29990,292,2016
+2076,ford,fiesta,Electric/Gasoline,Manual,Used,16890,125,2020
+2347,ford,fiesta,Electric/Gasoline,Manual,Used,17380,125,2020
+300,opel,corsa,Electric,Automatic,Used,24940,136,2021
+31654,fiat,500,Electric,Automatic,Used,13750,113,2015
+77000,volvo,v60,Electric/Diesel,Automatic,Used,21490,288,2016
+2083,ford,mondeo,Electric/Gasoline,Automatic,Used,26990,186,2019
+14081,volkswagen,golf,Electric,Automatic,Used,23969,136,2020
+8150,volkswagen,golf,Electric,Automatic,Used,23990,136,2020
+10,renault,zoe,Electric,Automatic,Pre-registered,24490,136,2020
+0,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,24990,141,2021
+2500,opel,corsa,Electric,Automatic,Used,25650,136,2021
+10,fiat,500,Electric,Automatic,Pre-registered,25989,118,2021
+15750,renault,twizy,Electric,Automatic,Used,6990,11,2013
+26592,renault,zoe,Electric,Automatic,Used,6880,92,2015
+16980,bmw,i3,Electric,Automatic,Used,23900,184,2019
+17900,ford,mondeo,Electric/Gasoline,Automatic,Used,24490,188,2019
+6800,ford,fiesta,Electric/Gasoline,Manual,Used,18450,125,2020
+15,hyundai,i30,Electric/Gasoline,Manual,Pre-registered,22890,159,2020
+1000,ford,puma,Electric/Gasoline,Manual,Used,24750,155,2020
+9000,volkswagen,id.4,Electric,Automatic,Used,52490,204,2021
+25135,nissan,e-nv200,Electric,Automatic,Used,16988,109,2016
+48800,bmw,330,Electric/Gasoline,Automatic,Used,29900,252,2018
+10969,toyota,prius,Electric/Gasoline,Automatic,Used,29900,122,2018
+11000,lexus,ux 250h,Electric/Gasoline,Automatic,Used,26990,179,2019
+22972,toyota,camry,Electric/Gasoline,Automatic,Used,28890,218,2019
+21471,toyota,camry,Electric/Gasoline,Automatic,Used,29490,218,2019
+7000,hyundai,kona,Electric,Automatic,Used,30490,0,2019
+100,toyota,camry,Electric/Gasoline,Automatic,Used,31950,218,2019
+15909,mazda,cx-30,Electric/Gasoline,Manual,Employee's car,24450,179,2020
+20,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,24490,184,2020
+10,opel,mokka,Electric,Automatic,Demonstration,34490,136,2021
+5,hyundai,kona,Electric,Automatic,Pre-registered,37880,204,2021
+10,lexus,es 300,Electric/Gasoline,Automatic,Used,39800,218,2021
+20,toyota,rav 4,Electric/Gasoline,Automatic,Pre-registered,40990,222,2021
+22500,renault,zoe,Electric,unknown gear,Used,6500,92,2015
+12000,ford,mondeo,Electric/Gasoline,Automatic,Used,31390,190,2019
+25,hyundai,i30,Electric/Gasoline,Manual,Pre-registered,23490,120,2021
+18200,renault,twizy,Electric,Automatic,Used,4300,11,2012
+100,renault,zoe,Electric,Automatic,Pre-registered,41195,69,2020
+1900,smart,forfour,Electric,unknown gear,Used,13500,82,2020
+97000,mitsubishi,i-miev,Electric,Automatic,Used,4997,48,2011
+104000,smart,fortwo,Electric,unknown gear,Used,6000,48,2012
+61000,volkswagen,golf,Electric,Automatic,Used,17890,136,2017
+4799,land,rover range rover,Electric/Gasoline,Automatic,Used,114900,404,2019
+8900,skoda,octavia,Electric/Gasoline,Automatic,Demonstration,34330,204,2021
+10,ford,kuga,Electric/Diesel,Manual,Pre-registered,34690,150,2021
+100,ford,s-max,Electric/Gasoline,Automatic,Pre-registered,39980,190,2021
+6500,audi,a3,Electric/Gasoline,Automatic,Used,39980,204,2021
+4212,cupra,formentor,Electric/Gasoline,Automatic,Demonstration,42379,245,2021
+5000,cupra,formentor,Electric/Gasoline,Automatic,Demonstration,46615,245,2021
+1500,cupra,leon,Electric/Gasoline,Automatic,Demonstration,47315,245,2021
+69600,lexus,nx 300,Electric/Gasoline,Automatic,Used,31990,197,2018
+14950,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,22990,188,2019
+5600,toyota,c-hr,Electric/Gasoline,Automatic,Used,24690,122,2019
+3000,smart,fortwo,Electric,Automatic,Demonstration,17480,82,2021
+628,mazda,2,Electric/Gasoline,Manual,Demonstration,18480,90,2021
+3000,smart,fortwo,Electric,Automatic,Demonstration,18890,0,2021
+3000,smart,fortwo,Electric,Automatic,Demonstration,19890,56,2021
+30694,renault,twizy,Electric,Automatic,Used,4190,11,2014
+36250,toyota,yaris,Electric/Gasoline,Automatic,Used,12480,101,2016
+29158,kia,niro,Electric/Gasoline,Automatic,Used,22980,141,2018
+59883,ford,mondeo,Electric/Gasoline,Manual,Used,19490,140,2019
+8779,seat,mii,Electric,Automatic,Demonstration,17950,83,2020
+15,opel,corsa,Electric,Automatic,Used,25990,136,2021
+6000,opel,mokka,Electric,Automatic,Used,26550,136,2021
+65747,volkswagen,golf,Electric/Gasoline,Automatic,Used,17979,204,2015
+60671,toyota,yaris,Electric/Gasoline,Automatic,Used,11480,73,2016
+44338,volvo,v60,Electric/Diesel,Automatic,Used,28940,288,2017
+3033,ford,puma,Electric/Gasoline,Manual,Employee's car,26490,155,2020
+15,subaru,xv,Electric/Gasoline,Automatic,Pre-registered,26990,150,2021
+15,kia,ceed sw / cee'd sw,Electric/Gasoline,Automatic,Pre-registered,27990,141,2021
+15,nissan,leaf,Electric,Automatic,Pre-registered,28490,218,2021
+39923,nissan,leaf,Electric,Automatic,Used,7350,109,2013
+49000,renault,zoe,Electric,Automatic,Used,7250,92,2016
+52908,renault,zoe,Electric,Automatic,Used,7380,92,2016
+25350,audi,a3,Electric/Gasoline,Automatic,Used,22480,204,2018
+30246,opel,ampera,Electric/Gasoline,Automatic,Used,22980,75,2018
+13450,bmw,i3,Electric,Automatic,Used,24900,184,2019
+21450,ford,mondeo,Electric/Gasoline,Automatic,Used,28950,188,2019
+632,mercedes-benz,vito,Electric,Automatic,Used,31450,116,2019
+6000,suzuki,swace,Electric/Gasoline,Automatic,Demonstration,25985,98,2020
+135000,renault,zoe,Electric,Automatic,Used,4880,58,2015
+160000,bmw,x5,Electric/Gasoline,Automatic,Used,29799,313,2016
+70000,mercedes-benz,glc 350,Electric/Gasoline,Automatic,Used,35999,320,2016
+64002,renault,zoe,Electric,Automatic,Used,7770,88,2016
+54550,toyota,yaris,Electric/Gasoline,Automatic,Used,11980,101,2017
+17975,lexus,unknown model,Electric/Gasoline,Automatic,Used,34980,223,2019
+10600,bmw,530,Electric/Gasoline,Automatic,Used,38400,252,2019
+9280,toyota,corolla,Electric/Gasoline,Automatic,Employee's car,24680,122,2020
+20,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,24790,122,2020
+12486,mazda,cx-30,Electric/Gasoline,Manual,Employee's car,24880,179,2020
+4038,mazda,cx-30,Electric/Gasoline,Manual,Employee's car,24890,122,2020
+1500,toyota,c-hr,Electric/Gasoline,Automatic,Demonstration,25190,184,2020
+2,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,26890,105,2020
+13950,lexus,ux 250h,Electric/Gasoline,Automatic,Used,26950,184,2020
+50,peugeot,3008,Electric/Gasoline,Automatic,Demonstration,41990,224,2021
+3813,cupra,formentor,Electric/Gasoline,Automatic,Used,43500,245,2021
+71100,renault,zoe,Electric,Automatic,Used,6975,88,2014
+20,hyundai,i30,Electric/Gasoline,Manual,Pre-registered,27990,159,2021
+150,hyundai,kona,Electric/Gasoline,Automatic,Demonstration,28990,141,2021
+240000,toyota,prius,Electric/Gasoline,Automatic,Used,5900,99,2013
+6500,skoda,enyaq,Electric,Automatic,Used,48900,204,2021
+4800,skoda,enyaq,Electric,Automatic,Used,48999,204,2021
+2850,skoda,enyaq,Electric,Automatic,Used,49222,204,2021
+4899,skoda,superb,Electric/Gasoline,Automatic,Used,53900,218,2021
+9999,mercedes-benz,e 300,Electric/Diesel,Automatic,Demonstration,63480,194,2021
+3000,mercedes-benz,glc 300,Electric/Diesel,Automatic,Demonstration,67880,194,2021
+9999,mercedes-benz,e 300,Electric/Diesel,Automatic,Demonstration,74800,194,2021
+3000,mercedes-benz,eqc 400,Electric,Automatic,Demonstration,75880,408,2021
+41010,ford,mondeo,Electric/Gasoline,Automatic,Used,20480,140,2018
+53900,ford,mondeo,Electric/Gasoline,Automatic,Used,19390,188,2019
+10000,volkswagen,passat,Electric/Gasoline,Automatic,Demonstration,35440,218,2020
+2000,skoda,unknown model,Electric,Automatic,Used,52900,204,2021
+2500,bmw,530,Electric/Gasoline,Automatic,Demonstration,60995,272,2021
+6500,audi,q5,Electric/Gasoline,Automatic,Demonstration,65900,367,2021
+6500,audi,a6,Electric/Gasoline,Automatic,Demonstration,77900,367,2021
+37652,renault,zoe,Electric,Automatic,Used,7495,92,2014
+29700,renault,zoe,Electric,Automatic,Used,7495,92,2016
+7000,volkswagen,id.3,Electric,Automatic,Employee's car,35980,204,2020
+4000,cupra,leon,Electric/Gasoline,Automatic,Used,37440,245,2020
+2350,volkswagen,golf,Electric/Gasoline,Automatic,Employee's car,37850,150,2020
+1649,mazda,3,Electric/Gasoline,Manual,Demonstration,24980,150,2021
+10,hyundai,tucson,Electric/Gasoline,Automatic,Used,26990,150,2021
+10,nissan,leaf,Electric,Automatic,Pre-registered,28989,218,2021
+84000,renault,zoe,Electric,Automatic,Used,4500,58,2013
+48313,toyota,rav 4,Electric/Gasoline,Automatic,Used,20800,155,2016
+46100,toyota,rav 4,Electric/Gasoline,Automatic,Used,22954,197,2016
+10300,toyota,c-hr,Electric/Gasoline,Automatic,Used,21291,98,2019
+45080,ford,mondeo,Electric/Gasoline,Automatic,Used,22490,188,2019
+7890,suzuki,vitara,Electric/Gasoline,Manual,Used,18799,129,2020
+64200,renault,zoe,Electric,Automatic,Used,4400,88,2013
+61534,toyota,auris,Electric/Gasoline,Automatic,Used,13860,136,2016
+11397,audi,a3,Electric/Gasoline,Automatic,Used,28880,204,2020
+1500,nissan,e-nv200,Electric,Automatic,Demonstration,29190,109,2021
+10,skoda,superb,Electric/Gasoline,Automatic,Pre-registered,31490,218,2021
+10,subaru,forester,Electric/Gasoline,Automatic,Pre-registered,31785,150,2021
+3000,opel,mokka,Electric,Automatic,Used,31950,136,2021
+21936,smart,fortwo,Electric,Automatic,Used,8790,48,2014
+5690,ds,automobiles ds 7 crossback,Electric/Gasoline,Automatic,Demonstration,51900,200,2020
+20,fiat,500,Electric/Gasoline,Manual,Pre-registered,13850,69,2021
+29350,renault,twizy,Electric,unknown gear,Used,3999,11,2012
+110000,renault,zoe,Electric,unknown gear,Used,4900,88,2013
+60254,nissan,leaf,Electric,Automatic,Used,11500,109,2016
+3053,land,rover range rover sport,Electric/Gasoline,Automatic,Used,92890,404,2019
+13800,smart,fortwo,Electric,unknown gear,Used,12320,82,2019
+10,toyota,prius+,Electric/Gasoline,Automatic,Used,27490,136,2020
+15,toyota,prius+,Electric/Gasoline,Automatic,Used,27990,122,2020
+1500,nissan,leaf,Electric,Automatic,Used,27990,218,2020
+18325,lexus,ux 250h,Electric/Gasoline,Automatic,Used,29300,184,2020
+10,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,29490,5,2020
+100,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,56990,265,2021
+6000,toyota,highlander,Electric/Gasoline,Automatic,Employee's car,57590,247,2021
+20,toyota,proace,Electric,Automatic,Pre-registered,57990,136,2021
+1110,ford,explorer,Electric/Gasoline,Automatic,Demonstration,68980,363,2021
+10,lexus,ls 500,Electric/Gasoline,Automatic,Demonstration,109990,359,2021
+59384,renault,zoe,Electric,Automatic,Used,6990,58,2014
+52457,renault,zoe,Electric,Automatic,Used,7975,92,2015
+31500,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,33990,156,2017
+25,hyundai,i20,Electric/Gasoline,Manual,Pre-registered,16333,101,2020
+4800,smart,fortwo,Electric,unknown gear,Used,16440,82,2020
+10,seat,leon,Electric/Gasoline,Automatic,Used,35690,150,2021
+10,seat,leon,Electric/Gasoline,Automatic,Used,35980,204,2021
+150,hyundai,kona,Electric,Automatic,Demonstration,38490,204,2021
+25,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,39990,265,2021
+1263,cupra,leon,Electric/Gasoline,Automatic,Demonstration,42790,245,2021
+80000,renault,zoe,Electric,Automatic,Used,6088,88,2014
+57688,volvo,v60,Electric/Diesel,Automatic,Used,22900,220,2017
+20109,volkswagen,golf,Electric,Automatic,Used,24850,136,2020
+1899,volkswagen,touareg,Electric/Gasoline,Automatic,Demonstration,99333,340,2021
+54000,nissan,leaf,Electric,Automatic,Used,8999,109,2015
+78000,citroen,c-zero,Electric,Automatic,Used,8490,67,2016
+3000,audi,e-tron,Electric,Automatic,Demonstration,119000,476,2021
+3500,audi,e-tron,Electric,Automatic,Demonstration,154900,598,2021
+70016,mitsubishi,i-miev,Electric,Automatic,Used,7990,48,2014
+17593,renault,zoe,Electric,Automatic,Used,7495,92,2017
+25000,toyota,rav 4,Electric/Gasoline,Automatic,Used,29990,218,2019
+9800,toyota,rav 4,Electric/Gasoline,Automatic,Used,31990,197,2019
+18390,audi,q3,Electric/Gasoline,Automatic,Employee's car,38890,150,2020
+7000,volkswagen,id.3,Electric,Automatic,Employee's car,39950,204,2020
+12510,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,41770,156,2020
+5500,seat,leon,Electric/Gasoline,Automatic,Demonstration,33500,204,2021
+63290,toyota,rav 4,Electric/Gasoline,Automatic,Used,23645,197,2016
+75800,tesla,model s,Electric,Automatic,Used,46960,428,2016
+67640,tesla,model s,Electric,Automatic,Used,47957,428,2016
+43203,lexus,nx 300,Electric/Gasoline,Automatic,Used,26990,197,2017
+1803,hyundai,ioniq,Electric/Gasoline,Automatic,Pre-registered,22991,105,2019
+50860,ford,focus,Electric/Gasoline,Manual,Used,18990,125,2020
+2602,ford,fiesta,Electric/Gasoline,Manual,Used,19250,155,2020
+100,ford,puma,Electric/Gasoline,unknown gear,Pre-registered,19423,125,2020
+3780,opel,grandland x,Electric/Gasoline,Automatic,Demonstration,31480,224,2021
+12,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,31990,141,2021
+2000,cupra,leon,Electric/Gasoline,Automatic,Demonstration,32550,150,2021
+2000,opel,mokka,Electric,Automatic,Used,32790,136,2021
+5,opel,mokka,Electric,Automatic,Demonstration,32940,136,2021
+61200,toyota,yaris,Electric/Gasoline,Automatic,Used,11111,75,2017
+50,opel,ampera,Electric,Automatic,Demonstration,29790,204,2020
+9229,volkswagen,id.3,Electric,Automatic,Used,31923,204,2020
+0,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,33290,230,2021
+3250,cupra,formentor,Electric/Gasoline,Automatic,Pre-registered,37450,245,2021
+10,jeep,compass,Electric/Gasoline,Automatic,Demonstration,39489,241,2021
+10,cupra,leon,Electric/Gasoline,Automatic,Demonstration,40470,245,2021
+137500,toyota,auris,Electric/Gasoline,Automatic,Used,8500,136,2013
+64479,volkswagen,up!,Electric,Automatic,Used,8650,82,2013
+59300,volkswagen,up!,Electric,Automatic,Used,9160,82,2014
+30400,renault,zoe,Electric,Automatic,Used,7999,88,2016
+50,fiat,panda,Electric/Gasoline,Manual,Pre-registered,10890,69,2020
+20,fiat,500,Electric/Gasoline,Manual,Pre-registered,14650,69,2021
+10,renault,zoe,Electric,Automatic,Used,14990,109,2021
+65890,renault,zoe,Electric,unknown gear,Used,5800,92,2014
+49980,renault,zoe,Electric,unknown gear,Used,5999,88,2015
+50000,renault,twizy,Electric,Automatic,Used,3250,12,2016
+50400,toyota,yaris,Electric/Gasoline,Automatic,Used,13880,101,2018
+51030,toyota,auris,Electric/Gasoline,Automatic,Used,15680,136,2018
+57650,toyota,auris,Electric/Gasoline,Automatic,Used,16480,132,2018
+14500,toyota,camry,Electric/Gasoline,Automatic,Employee's car,30380,218,2020
+15,hyundai,kona,Electric/Gasoline,Automatic,Pre-registered,30490,141,2020
+6990,toyota,camry,Electric/Gasoline,Automatic,Employee's car,30890,218,2020
+14422,lexus,ux 250h,Electric/Gasoline,Automatic,Employee's car,30980,184,2020
+5,jeep,renegade,Electric/Gasoline,Automatic,Demonstration,31900,181,2020
+20,toyota,rav 4,Electric/Gasoline,Automatic,Pre-registered,32690,222,2020
+10,toyota,yaris,Electric/Gasoline,Automatic,Pre-registered,22900,92,2021
+500,hyundai,i20,Electric/Gasoline,Manual,Demonstration,19490,101,2020
+1500,seat,tarraco,Electric/Gasoline,Automatic,Demonstration,46390,245,2021
+100,hyundai,ioniq,Electric,Automatic,Demonstration,47990,218,2021
+116000,mitsubishi,i-miev,Electric,unknown gear,Used,5300,67,2011
+406360,toyota,prius+,Electric/Gasoline,Automatic,Used,6800,99,2014
+64185,renault,zoe,Electric,Automatic,Used,6688,88,2015
+272000,toyota,auris,Electric/Gasoline,Automatic,Used,6700,99,2015
+24642,mercedes-benz,c 350,Electric/Gasoline,Automatic,Used,28499,211,2018
+1260,nissan,leaf,Electric,Automatic,Demonstration,27900,150,2020
+5000,kia,niro,Electric/Gasoline,Automatic,Demonstration,31800,141,2021
+4000,kia,soul,Electric,Automatic,Demonstration,37935,204,2021
+300,jeep,compass,Electric/Gasoline,Automatic,Demonstration,49990,239,2021
+5000,kia,sorento,Electric/Gasoline,Automatic,Demonstration,54900,265,2021
+82000,honda,cr-z,Electric/Gasoline,Manual,Used,7700,114,2012
+139000,toyota,auris,Electric/Gasoline,Automatic,Used,7800,136,2012
+53500,volkswagen,up!,Electric,Automatic,Used,8790,82,2014
+96545,toyota,yaris,Electric/Gasoline,Automatic,Used,8900,75,2014
+23100,nissan,leaf,Electric,Automatic,Used,8980,109,2014
+19144,volvo,v90,Electric/Gasoline,Automatic,Used,43480,320,2017
+87700,audi,q7,Electric/Diesel,Automatic,Used,47900,258,2017
+5000,toyota,prius,Electric/Gasoline,Automatic,Used,29700,98,2018
+6010,ford,puma,Electric/Gasoline,Manual,Employee's car,23980,155,2019
+6550,ford,puma,Electric/Gasoline,Manual,Employee's car,24480,155,2019
+500,toyota,prius+,Electric/Gasoline,Automatic,Used,25990,136,2021
+250,subaru,forester,Electric/Gasoline,Automatic,Demonstration,35990,150,2021
+107852,toyota,auris,Electric/Gasoline,Automatic,Used,7199,99,2011
+78500,toyota,auris,Electric/Gasoline,Automatic,Used,7300,99,2011
+22900,smart,forfour,Electric,Automatic,Used,9840,56,2018
+65000,lexus,rx 450h,Electric/Gasoline,Automatic,Used,44990,313,2019
+17000,audi,q5,Electric/Gasoline,Automatic,Used,55880,252,2020
+63000,audi,e-tron,Electric,Automatic,Used,61880,360,2020
+20000,audi,a8,Electric/Gasoline,Automatic,Used,89950,449,2020
+3000,mercedes-benz,unknown model,Electric,Automatic,Demonstration,42890,109,2021
+23500,renault,zoe,Electric,Automatic,Used,9999,58,2016
+13802,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,25350,105,2019
+3412,hyundai,kona,Electric,Automatic,Used,25990,135,2019
+4200,ford,fiesta,Electric/Gasoline,Manual,Employee's car,19950,125,2020
+8427,ford,focus,Electric/Gasoline,Manual,Used,20480,125,2020
+900,opel,mokka,Electric,Automatic,Used,33540,136,2021
+5,seat,leon,Electric/Gasoline,Automatic,Used,33770,204,2021
+5,seat,leon,Electric/Gasoline,Automatic,Used,34770,204,2021
+10,cupra,formentor,Electric/Gasoline,Automatic,Pre-registered,34950,204,2021
+5,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,34970,230,2021
+0,hyundai,ioniq,Electric,Automatic,Used,35790,136,2021
+48,ford,kuga,Electric/Gasoline,Automatic,Demonstration,35790,224,2021
+10,skoda,octavia,Electric/Gasoline,Automatic,Pre-registered,35950,245,2021
+6,hyundai,kona,Electric,Automatic,Used,35990,136,2021
+10,seat,leon,Electric/Gasoline,Automatic,Demonstration,36550,204,2021
+53923,renault,twizy,Electric,Automatic,Used,4260,11,2012
+44800,toyota,rav 4,Electric/Gasoline,Automatic,Used,26960,197,2016
+52427,nissan,leaf,Electric,Automatic,Used,12990,109,2017
+33132,nissan,leaf,Electric,Automatic,Used,13490,109,2017
+78000,volvo,v60,Electric/Diesel,Automatic,Used,19790,288,2017
+1500,ds,automobiles ds 3 crossback,Electric,Automatic,Demonstration,32190,136,2020
+6962,audi,a3,Electric/Gasoline,Automatic,Demonstration,32350,204,2020
+1293,volvo,xc40,Electric/Gasoline,Automatic,Used,44990,261,2021
+9999,volkswagen,id.4,Electric,Automatic,Demonstration,45555,204,2021
+4900,peugeot,3008,Electric/Gasoline,Automatic,Demonstration,48770,299,2021
+1,ds,automobiles ds 7 crossback,Electric/Gasoline,Automatic,Demonstration,52990,200,2021
+8999,audi,q5,Electric/Gasoline,Automatic,Demonstration,55990,367,2021
+26056,renault,zoe,Electric,Automatic,Used,8580,92,2016
+23020,volvo,v60,Electric/Diesel,Automatic,Used,23890,220,2017
+13245,renault,zoe,Electric,Automatic,Used,10780,88,2019
+18425,smart,fortwo,Electric,Automatic,Used,10990,82,2019
+50,fiat,panda,Electric/Gasoline,Manual,Pre-registered,12290,69,2020
+10,suzuki,swift,Electric/Gasoline,Manual,Pre-registered,12475,90,2020
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15450,69,2021
+10,renault,zoe,Electric,Automatic,Used,15900,109,2021
+19900,toyota,auris,Electric/Gasoline,Automatic,Used,16999,99,2018
+600,hyundai,ioniq,Electric,Manual,Pre-registered,33763,120,2020
+8900,mercedes-benz,c 200,Electric/Gasoline,Automatic,Used,33999,184,2020
+10950,toyota,rav 4,Electric/Gasoline,Automatic,Demonstration,35890,222,2020
+9700,mitsubishi,outlander,Electric/Gasoline,Automatic,Demonstration,35990,135,2020
+20,toyota,rav 4,Electric/Gasoline,Automatic,Pre-registered,36590,222,2020
+4,audi,a3,Electric/Gasoline,Automatic,Pre-registered,35400,204,2021
+46500,smart,fortwo,Electric,Automatic,Used,6990,48,2014
+1000,renault,zoe,Electric,Automatic,Demonstration,29490,69,2020
+18350,fiat,fiorino,Electric,Manual,Used,6770,41,2011
+107000,honda,cr-z,Electric/Gasoline,Manual,Used,7150,114,2011
+103150,toyota,auris,Electric/Gasoline,Automatic,Used,7350,99,2011
+220000,toyota,prius,Electric/Gasoline,Automatic,Used,5200,99,2011
+172000,toyota,prius,Electric/Gasoline,Automatic,Used,7900,99,2011
+110000,toyota,prius,Electric/Gasoline,Automatic,Used,9900,99,2011
+30,others,unknown model,Electric,unknown gear,Used,1950,7,2011
+71300,honda,insight,Electric/Gasoline,Automatic,Used,8600,98,2011
+93968,mitsubishi,i-miev,Electric,Automatic,Used,4990,48,2011
+271000,toyota,prius,Electric/Gasoline,Automatic,Used,5000,136,2012
+59469,mitsubishi,i-miev,Electric,unknown gear,Used,6900,67,2012
+129000,toyota,auris,Electric/Gasoline,Automatic,Used,7000,136,2012
+45000,mitsubishi,i-miev,Electric,unknown gear,Used,10200,67,2012
+86100,nissan,leaf,Electric,unknown gear,Used,10700,109,2012
+144323,peugeot,3008,Electric/Diesel,Automatic,Used,8500,163,2012
+67501,toyota,yaris,Electric/Gasoline,Automatic,Used,8750,75,2012
+59000,citroen,c-zero,Electric,Automatic,Used,6990,48,2012
+87500,lexus,ct 200h,Electric/Gasoline,Automatic,Used,13700,136,2012
+990,renault,twizy,Electric,Automatic,Used,4690,11,2012
+47149,chevrolet,volt,Electric/Gasoline,Automatic,Used,10890,151,2012
+51795,toyota,auris,Electric/Gasoline,Automatic,Used,14990,136,2012
+58124,nissan,leaf,Electric,Automatic,Used,8490,109,2012
+3397,renault,twizy,Electric,Automatic,Used,4800,11,2012
+62000,smart,fortwo,Electric,Automatic,Used,6590,48,2012
+131523,toyota,auris,Electric/Gasoline,Automatic,Used,7399,99,2012
+127790,toyota,yaris,Electric/Gasoline,Automatic,Used,7889,101,2013
+302000,toyota,prius+,Electric/Gasoline,unknown gear,Used,7985,1,2013
+108500,toyota,auris,Electric/Gasoline,Automatic,Used,9800,99,2013
+80263,toyota,yaris,Electric/Gasoline,Automatic,Used,9000,75,2013
+95150,toyota,auris,Electric/Gasoline,Automatic,Used,11500,136,2013
+106000,toyota,auris,Electric/Gasoline,Automatic,Used,9480,99,2013
+62300,toyota,yaris,Electric/Gasoline,Automatic,Used,9489,101,2013
+34590,nissan,leaf,Electric,Automatic,Used,9890,109,2013
+73560,smart,fortwo,Electric,unknown gear,Used,7400,48,2013
+67800,nissan,leaf,Electric,unknown gear,Used,10500,109,2013
+93450,toyota,auris,Electric/Gasoline,Automatic,Used,10890,136,2013
+120900,mercedes-benz,e 300,Electric/Diesel,Automatic,Used,16799,204,2013
+66000,renault,zoe,Electric,Automatic,Used,3300,88,2013
+69610,renault,zoe,Electric,Automatic,Used,5490,58,2013
+91700,renault,zoe,Electric,Automatic,Used,5750,88,2013
+42000,mercedes-benz,e 400,Electric/Gasoline,Automatic,Used,18400,306,2013
+117000,renault,zoe,Electric,Automatic,Used,5650,88,2013
+63000,smart,fortwo,Electric,Automatic,Used,6590,75,2013
+83000,smart,fortwo,Electric,Automatic,Used,6450,75,2013
+27000,smart,fortwo,Electric,Automatic,Used,6490,48,2013
+47757,renault,zoe,Electric,Automatic,Used,6990,92,2013
+88517,renault,zoe,Electric,unknown gear,Used,6500,88,2013
+215000,toyota,prius,Electric/Gasoline,Automatic,Used,5000,99,2013
+351500,toyota,prius,Electric/Gasoline,Automatic,Used,8000,99,2014
+27999,toyota,yaris,Electric/Gasoline,Automatic,Used,10499,75,2014
+114320,toyota,auris,Electric/Gasoline,Automatic,Used,10900,99,2014
+208406,toyota,auris,Electric/Gasoline,Automatic,Used,8800,99,2014
+149850,toyota,auris,Electric/Gasoline,Automatic,Used,8989,136,2014
+195000,toyota,auris,Electric/Gasoline,Automatic,Used,6999,99,2014
+29798,renault,zoe,Electric,Automatic,Used,6999,58,2014
+43500,mitsubishi,i-miev,Electric,unknown gear,Used,7000,67,2014
+100700,toyota,auris,Electric/Gasoline,Automatic,Used,12500,99,2014
+33900,smart,fortwo,Electric,Automatic,Used,9599,48,2014
+16850,toyota,auris,Electric/Gasoline,Automatic,Used,14400,136,2014
+60800,toyota,auris,Electric/Gasoline,Automatic,Used,14900,99,2014
+140200,toyota,prius,Electric/Gasoline,Automatic,Used,11500,99,2014
+90543,toyota,yaris,Electric/Gasoline,Automatic,Used,8499,75,2014
+1200,aixam,city,Electric,Automatic,Used,8500,5,2014
+45126,audi,a3,Electric/Gasoline,Automatic,Used,18790,204,2014
+102700,renault,zoe,Electric,Automatic,Used,5280,88,2014
+16300,volkswagen,up!,Electric,Automatic,Used,10925,82,2014
+39600,volkswagen,golf,Electric,Automatic,Used,15479,116,2014
+44000,bmw,i3,Electric,Automatic,Used,16999,102,2014
+94500,tesla,model s,Electric,Automatic,Used,55990,700,2014
+69900,renault,zoe,Electric,Automatic,Used,4990,58,2014
+33969,bmw,i3,Electric,Automatic,Used,17900,170,2014
+55000,smart,fortwo,Electric,Automatic,Used,4950,75,2014
+86000,renault,zoe,Electric,unknown gear,Used,5295,92,2014
+32124,smart,fortwo,Electric,Automatic,Used,5990,48,2014
+41200,renault,zoe,Electric,unknown gear,Used,5400,88,2014
+157975,infiniti,q70,Electric/Gasoline,Automatic,Used,15950,364,2014
+245455,lexus,gs 450h,Electric/Gasoline,Automatic,Used,18950,345,2014
+49095,toyota,yaris,Electric/Gasoline,Automatic,Used,9599,75,2014
+45000,renault,zoe,Electric,unknown gear,Used,8450,88,2015
+13101,renault,zoe,Electric,Automatic,Used,8990,58,2015
+112000,audi,a3,Electric/Gasoline,Automatic,Used,11996,150,2015
+62284,toyota,auris,Electric/Gasoline,Automatic,Used,13700,136,2015
+58710,renault,unknown model,Electric,Automatic,Used,9990,58,2015
+21750,renault,zoe,Electric,Automatic,Used,7980,58,2015
+57536,toyota,auris,Electric/Gasoline,Automatic,Used,14290,185,2015
+60297,renault,zoe,Electric,unknown gear,Used,8000,92,2015
+30390,nissan,leaf,Electric,Automatic,Used,10890,109,2015
+82900,audi,a3,Electric/Gasoline,Automatic,Used,15290,150,2015
+35500,volkswagen,up!,Electric,Automatic,Demonstration,13850,82,2015
+82400,nissan,e-nv200,Electric,Automatic,Used,10990,109,2015
+109900,volkswagen,golf,Electric/Gasoline,Automatic,Used,15880,204,2015
+29191,toyota,auris,Electric/Gasoline,Automatic,Used,15990,136,2015
+102500,tesla,unknown model,Electric,Automatic,Used,37980,333,2015
+38500,tesla,unknown model,Electric,Automatic,Used,50990,469,2015
+44900,bmw,i3,Electric,Automatic,Used,14400,170,2015
+47620,bmw,i3,Electric/Gasoline,Automatic,Used,17990,170,2015
+59021,bmw,i3,Electric/Gasoline,Automatic,Used,17999,170,2015
+61000,renault,zoe,Electric,Automatic,Used,6099,58,2015
+37407,renault,zoe,Electric,Automatic,Used,6470,58,2015
+354557,toyota,auris,Electric/Gasoline,Automatic,Used,5880,99,2015
+88000,renault,zoe,Electric,unknown gear,Used,7000,88,2015
+33618,renault,zoe,Electric,unknown gear,Used,7500,58,2015
+34490,smart,fortwo,Electric,Automatic,Used,6490,75,2015
+26800,renault,zoe,Electric,Automatic,Used,6990,92,2015
+92612,lexus,gs 450h,Electric/Gasoline,Automatic,Used,33900,345,2015
+80000,toyota,yaris,Electric/Gasoline,Automatic,Used,8700,75,2015
+37092,renault,zoe,Electric,Automatic,Used,7290,58,2015
+16000,volkswagen,golf,Electric,Automatic,Used,15480,116,2015
+19200,lexus,unknown model,Electric/Gasoline,Automatic,Used,39890,262,2016
+35270,renault,zoe,Electric,Automatic,Used,8490,58,2016
+95230,renault,kangoo,Electric,Automatic,Used,8490,60,2016
+12910,renault,zoe,Electric,Automatic,Used,8880,88,2016
+127707,toyota,rav 4,Electric/Gasoline,Automatic,Used,20900,197,2016
+208529,mercedes-benz,gle 500,Electric/Gasoline,Automatic,Used,32399,333,2016
+26000,renault,zoe,Electric,Automatic,Used,9233,58,2016
+36400,renault,zoe,Electric,Automatic,Used,6580,58,2016
+52711,renault,zoe,Electric,Automatic,Used,6890,58,2016
+61500,renault,zoe,Electric,Automatic,Used,6970,88,2016
+45500,renault,zoe,Electric,Automatic,Used,7090,88,2016
+30400,renault,kangoo z.e.,Electric,Automatic,Used,9790,60,2016
+27495,renault,zoe,Electric,Automatic,Used,8489,58,2016
+57683,renault,zoe,Electric,Automatic,Used,8590,58,2016
+25298,renault,zoe,Electric,Automatic,Used,6990,58,2016
+36220,hyundai,ioniq,Electric/Gasoline,Automatic,Used,14860,105,2016
+39500,toyota,yaris,Electric/Gasoline,Automatic,Used,14200,75,2016
+35500,renault,kangoo z.e.,Electric,Automatic,Used,11650,60,2016
+55000,bmw,225,Electric/Gasoline,Automatic,Used,17850,224,2016
+100000,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,17490,121,2016
+63205,tesla,model x,Electric,Automatic,Used,99999,772,2016
+18900,toyota,rav 4,Electric/Gasoline,Automatic,Used,24900,197,2016
+47000,renault,twizy,Electric,Automatic,Used,4700,11,2016
+37500,renault,zoe,Electric,Automatic,Used,7860,58,2016
+32300,renault,twizy,Electric,unknown gear,Used,5500,5,2016
+112000,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,19490,121,2016
+39900,volkswagen,golf,Electric/Gasoline,Automatic,Used,22479,150,2016
+53500,renault,zoe,Electric,Automatic,Used,7240,88,2016
+38668,renault,zoe,Electric,Automatic,Used,7490,58,2016
+23375,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,26490,121,2016
+46000,bmw,330,Electric/Gasoline,Automatic,Used,22410,252,2017
+18500,renault,zoe,Electric,unknown gear,Used,8050,88,2017
+33000,bmw,i8,Electric/Gasoline,Automatic,Used,72900,362,2017
+11700,peugeot,ion,Electric,Automatic,Used,8490,48,2017
+99754,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,23994,218,2017
+14004,smart,fortwo,Electric,Automatic,Used,8990,82,2017
+44175,volkswagen,passat,Electric/Gasoline,Automatic,Used,28900,218,2017
+84396,bmw,x5,Electric/Gasoline,Automatic,Used,38900,245,2017
+34000,bmw,x5,Electric/Gasoline,Automatic,Used,39985,313,2017
+12800,smart,fortwo,Electric,Automatic,Used,8900,82,2017
+25500,volvo,xc60,Electric/Gasoline,Automatic,Used,59890,408,2017
+32750,porsche,panamera,Electric/Gasoline,Automatic,Used,82500,462,2017
+48000,toyota,yaris,Electric/Gasoline,Automatic,Used,12470,75,2017
+40750,renault,zoe,Electric,Automatic,Used,10447,92,2017
+10900,renault,zoe,Electric,Automatic,Used,10950,92,2017
+65726,renault,zoe,Electric,Automatic,Used,8390,58,2017
+49040,renault,zoe,Electric,Automatic,Used,9981,58,2017
+69710,bmw,530,Electric/Gasoline,Automatic,Used,30700,252,2017
+23220,renault,zoe,Electric,Automatic,Used,12590,58,2017
+53700,toyota,c-hr,Electric/Gasoline,Automatic,Used,18770,98,2017
+10200,kia,soul,Electric,Automatic,Used,21860,110,2017
+30415,smart,fortwo,Electric,Automatic,Used,14290,82,2017
+3550,kia,optima,Electric/Gasoline,Automatic,Used,28860,156,2017
+2030,kia,optima,Electric/Gasoline,Automatic,Used,29440,156,2017
+36000,tesla,model x,Electric,Automatic,Used,62900,333,2017
+68140,hyundai,ioniq,Electric/Gasoline,Automatic,Used,17580,105,2017
+84990,mercedes-benz,glc 350,Electric/Gasoline,Automatic,Used,37990,211,2017
+69000,mercedes-benz,e 350,Electric/Gasoline,Automatic,Used,39990,286,2017
+29498,audi,q7,Electric/Diesel,Automatic,Used,50930,374,2017
+67199,audi,q7,Electric/Diesel,Automatic,Used,52685,374,2017
+2250,others,unknown model,Electric,Automatic,Used,10591,52,2017
+1100,others,unknown model,Electric,Automatic,Used,11781,52,2017
+32138,hyundai,ioniq,Electric,Manual,Used,18490,120,2017
+41946,tesla,model s,Electric,Automatic,Used,99999,532,2017
+42900,bmw,i3,Electric/Gasoline,Automatic,Used,19500,170,2017
+43000,bmw,i3,Electric,Automatic,Used,19310,170,2017
+20990,volkswagen,golf,Electric,Automatic,Used,19430,136,2017
+51712,bmw,225,Electric/Gasoline,Automatic,Used,19850,224,2018
+15000,volkswagen,golf,Electric,unknown gear,Used,19950,136,2018
+21900,bmw,530,Electric/Gasoline,Automatic,Used,36250,184,2018
+29700,lexus,rc 300h,Electric/Gasoline,Automatic,Used,36400,223,2018
+20359,smart,fortwo,Electric,Automatic,Used,9990,82,2018
+38155,mercedes-benz,gle 500,Electric/Gasoline,Automatic,Used,54900,333,2018
+52000,bmw,x5,Electric/Gasoline,Automatic,Used,43820,313,2018
+27264,renault,zoe,Electric,Automatic,Used,10490,58,2018
+62000,renault,zoe,Electric,Automatic,Used,10699,92,2018
+48700,toyota,yaris,Electric/Gasoline,Automatic,Used,13890,75,2018
+25900,nissan,leaf,Electric,Automatic,Used,22890,150,2018
+12900,volvo,xc60,Electric/Gasoline,Automatic,Used,68890,405,2018
+44614,toyota,rav 4,Electric/Gasoline,Automatic,Used,23270,197,2018
+40900,toyota,rav 4,Electric/Gasoline,Automatic,Used,25890,155,2018
+20,others,unknown model,Electric,unknown gear,Used,4850,0,2018
+34998,porsche,panamera,Electric/Gasoline,Automatic,Used,99400,462,2018
+40543,porsche,panamera,Electric/Gasoline,Automatic,Used,128750,680,2018
+20000,renault,zoe,Electric,Automatic,Used,11890,58,2018
+138741,toyota,prius+,Electric/Gasoline,Automatic,Used,19900,136,2018
+50000,renault,zoe,Electric,Automatic,Used,12470,58,2018
+33810,bmw,530,Electric/Gasoline,Automatic,Used,32900,252,2018
+31858,bmw,330,Electric/Gasoline,Automatic,Used,33900,252,2018
+5700,toyota,yaris,Electric/Gasoline,Automatic,Used,13300,75,2018
+40000,toyota,yaris,Electric/Gasoline,Automatic,Used,13600,75,2018
+161000,renault,zoe,Electric,Automatic,Used,6950,92,2018
+37000,renault,zoe,Electric,Automatic,Used,10470,58,2018
+12600,renault,zoe,Electric,Automatic,Used,11290,58,2018
+25000,renault,zoe,Electric,Automatic,Used,12270,92,2018
+16360,renault,zoe,Electric,Automatic,Used,9490,58,2018
+46200,renault,zoe,Electric,Automatic,Used,12900,58,2018
+26700,toyota,yaris,Electric/Gasoline,Automatic,Used,13700,101,2018
+10114,renault,zoe,Electric,Automatic,Used,13890,72,2018
+99896,toyota,auris,Electric/Gasoline,Automatic,Used,14450,99,2018
+18415,smart,fortwo,Electric,Automatic,Used,14870,82,2018
+19400,nissan,leaf,Electric,Automatic,Used,19955,122,2018
+69460,porsche,panamera,Electric/Gasoline,Automatic,Used,84900,462,2018
+86021,bmw,530,Electric/Gasoline,Automatic,Used,25890,252,2018
+30000,volvo,v90,Electric/Gasoline,Automatic,Used,44850,408,2018
+30000,toyota,yaris,Electric/Gasoline,Automatic,Used,13900,75,2018
+9352,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,26890,135,2018
+11990,opel,ampera,Electric,Automatic,Used,25899,204,2018
+14485,jaguar,i-pace,Electric,Automatic,Used,69998,400,2018
+9880,mercedes-benz,cls 450,Electric/Gasoline,Automatic,Used,66869,367,2019
+29887,mercedes-benz,c 200,Electric/Gasoline,Automatic,Used,32470,184,2019
+3385,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,35980,156,2019
+20550,ford,mondeo,Electric/Gasoline,Automatic,Used,25990,188,2019
+1817,mini,cooper se,Electric,Manual,Used,27790,102,2019
+23300,bmw,i3,Electric/Gasoline,Automatic,Used,28300,184,2019
+6000,volvo,xc90,Electric/Gasoline,Automatic,Demonstration,87890,392,2019
+23853,porsche,panamera,Electric/Gasoline,Automatic,Used,95800,462,2019
+21080,porsche,panamera,Electric/Gasoline,Automatic,Used,102400,462,2019
+32560,porsche,panamera,Electric/Gasoline,Automatic,Used,106911,462,2019
+4116,porsche,panamera,Electric/Gasoline,Automatic,Used,136500,680,2019
+4018,porsche,cayenne,Electric/Gasoline,Automatic,Used,167300,680,2019
+400,renault,twizy,Electric,unknown gear,Used,11000,16,2019
+17914,smart,forfour,Electric,Automatic,Used,11590,82,2019
+11590,toyota,corolla,Electric/Gasoline,Automatic,Used,24910,179,2019
+97658,toyota,corolla,Electric/Gasoline,Automatic,Used,19900,179,2019
+22478,bmw,530,Electric/Gasoline,Automatic,Used,31500,252,2019
+26929,renault,zoe,Electric,Automatic,Used,11990,72,2019
+12900,toyota,prius,Electric/Gasoline,Automatic,Demonstration,30990,98,2019
+7400,nissan,e-nv200,Electric,Automatic,Used,36450,109,2019
+20000,lexus,unknown model,Electric/Gasoline,Automatic,Used,39990,184,2019
+16561,land,rover range rover sport,Electric/Gasoline,Automatic,Demonstration,87650,404,2019
+0,others,unknown model,Electric,Automatic,Used,5999,3,2019
+7296,smart,forfour,Electric,Automatic,Used,12290,82,2019
+250,estrima,birò,Electric,Automatic,Used,12590,5,2019
+17061,smart,fortwo,Electric,Automatic,Used,12678,56,2019
+40,others,unknown model,Electric,Automatic,Used,9870,52,2019
+17998,hyundai,ioniq,Electric/Gasoline,Automatic,Used,18500,141,2019
+14764,hyundai,ioniq,Electric/Gasoline,Automatic,Used,18950,141,2019
+8206,smart,fortwo,Electric,Automatic,Used,13390,82,2019
+18500,ford,mondeo,Electric/Gasoline,Automatic,Used,23980,140,2019
+200,estrima,birò,Electric,Automatic,Used,13590,5,2019
+3155,smart,fortwo,Electric,Automatic,Used,13970,82,2019
+98700,toyota,auris,Electric/Gasoline,Automatic,Used,14299,136,2019
+25700,renault,zoe,Electric,Automatic,Used,11978,109,2019
+20500,renault,zoe,Electric,Automatic,Used,12150,92,2019
+24900,renault,zoe,Electric,Automatic,Used,12970,109,2019
+18833,renault,zoe,Electric,Automatic,Used,12990,72,2019
+3900,renault,zoe,Electric,Automatic,Used,13450,109,2019
+11500,renault,kangoo z.e.,Electric,Automatic,Used,13890,60,2019
+15900,renault,zoe,Electric,Automatic,Demonstration,14380,69,2019
+9410,renault,zoe,Electric,Automatic,Used,11389,58,2019
+3000,volkswagen,passat variant,Electric/Gasoline,Manual,Demonstration,57980,156,2019
+700,others,unknown model,Electric,unknown gear,Used,6300,5,2019
+300,others,unknown model,Electric,Automatic,Used,7000,5,2019
+7985,smart,fortwo,Electric,Automatic,Used,14498,56,2019
+16000,toyota,yaris,Electric/Gasoline,Automatic,Used,14863,73,2019
+18309,renault,zoe,Electric,Automatic,Used,13990,72,2019
+15588,renault,zoe,Electric,Automatic,Used,17791,58,2019
+7000,smart,fortwo,Electric,Automatic,Used,15500,82,2019
+18512,lexus,ct 200h,Electric/Gasoline,Automatic,Used,23990,136,2019
+10746,bmw,i3,Electric,Automatic,Used,25980,102,2019
+64087,ford,mondeo,Electric/Gasoline,Automatic,Used,19790,140,2019
+12300,nissan,leaf,Electric,Automatic,Used,19980,136,2019
+14512,renault,zoe,Electric,Automatic,Used,17489,72,2019
+14502,renault,zoe,Electric,Automatic,Used,17990,72,2019
+21860,kia,optima,Electric/Gasoline,Automatic,Used,30860,205,2019
+6286,bmw,i3,Electric,Automatic,Used,24441,170,2019
+6410,volkswagen,golf,Electric,Automatic,Used,20740,136,2019
+17051,hyundai,ioniq,Electric/Gasoline,Automatic,Used,20900,105,2019
+36820,tesla,model s,Electric,unknown gear,Used,87000,367,2019
+19260,porsche,panamera,Electric/Gasoline,Automatic,Used,99500,462,2019
+14852,porsche,panamera,Electric/Gasoline,Automatic,Used,114900,462,2019
+7450,nissan,leaf,Electric,Automatic,Used,23970,150,2019
+20964,tesla,model 3,Electric,Automatic,Used,62990,487,2019
+11752,audi,e-tron,Electric,Automatic,Used,71970,360,2019
+19000,hyundai,ioniq,Electric,Automatic,Demonstration,21995,120,2020
+850,opel,corsa,Electric,Automatic,Demonstration,22650,136,2020
+3900,jeep,renegade,Electric/Gasoline,Automatic,Demonstration,31890,238,2020
+6900,jeep,compass,Electric/Gasoline,Automatic,Demonstration,34790,238,2020
+4444,cupra,leon,Electric/Gasoline,Automatic,Demonstration,34990,150,2020
+9990,hyundai,ioniq,Electric,Automatic,Demonstration,22995,120,2020
+5400,renault,zoe,Electric,Automatic,Demonstration,23280,69,2020
+9,hyundai,i30,Electric/Gasoline,Automatic,Used,24400,159,2020
+4292,jeep,compass,Electric/Gasoline,Automatic,Demonstration,40990,241,2020
+1000,volkswagen,id.3,Electric,Automatic,Used,42380,204,2020
+7000,tesla,unknown model,Electric,Automatic,Used,44670,321,2020
+18075,mercedes-benz,e 300,Electric/Gasoline,Automatic,Used,45420,194,2020
+2500,suzuki,across,Electric/Gasoline,Automatic,Employee's car,45490,185,2020
+6231,volkswagen,golf,Electric,Automatic,Employee's car,25525,136,2020
+6000,volkswagen,golf,Electric/Gasoline,Automatic,Demonstration,40990,150,2020
+16000,tesla,unknown model,Electric,Automatic,Used,51870,487,2020
+6000,tesla,unknown model,Electric,Automatic,Used,55430,351,2020
+8371,volvo,xc90,Electric/Diesel,Automatic,Used,55921,235,2020
+10,hyundai,i30,Electric/Gasoline,Automatic,Pre-registered,26790,159,2020
+12310,volkswagen,golf,Electric/Gasoline,Automatic,Used,26940,204,2020
+9788,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,66990,303,2020
+158,volvo,s90,Electric/Gasoline,Automatic,Demonstration,74365,303,2020
+9900,porsche,taycan,Electric,Automatic,Demonstration,114500,571,2020
+13500,bentley,bentayga,Electric/Gasoline,Automatic,Used,188888,340,2020
+4000,tesla,unknown model,Electric,Automatic,Used,61582,487,2020
+1000,polestar,2,Electric,Automatic,Used,64320,408,2020
+4352,ford,kuga,Electric/Diesel,Manual,Employee's car,27470,150,2020
+10,hyundai,tucson,Electric/Gasoline,Manual,Pre-registered,28490,150,2020
+17300,mercedes-benz,s 450,Electric/Gasoline,Automatic,Used,81950,389,2020
+25100,tesla,unknown model,Electric,Automatic,Used,99999,795,2020
+26500,tesla,unknown model,Electric,Automatic,Used,103850,562,2020
+2000,smart,forfour,Electric,Automatic,Employee's car,12990,82,2020
+9775,fiat,500c,Electric/Gasoline,Manual,Used,14484,69,2020
+5,fiat,500,Electric/Gasoline,Manual,Pre-registered,15337,69,2020
+3314,honda,e,Electric,Automatic,Demonstration,29000,154,2020
+3000,mazda,mx-30,Electric,Automatic,Demonstration,23450,145,2020
+11223,volvo,xc90,Electric/Gasoline,Automatic,Used,62450,250,2020
+22351,land,rover range rover sport,Electric/Gasoline,Automatic,Used,88890,300,2020
+5,fiat,500c,Electric/Gasoline,Manual,Pre-registered,19999,69,2020
+10,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,29980,224,2020
+4066,volkswagen,golf,Electric,Automatic,Used,29990,136,2020
+3500,skoda,citigo,Electric,Automatic,Used,23882,83,2020
+13200,bmw,i3,Electric,Automatic,Used,29850,170,2020
+3195,mini,cooper se,Electric,Automatic,Used,31850,184,2020
+5000,ford,kuga,Electric/Gasoline,Automatic,Used,34490,224,2020
+16965,audi,a3,Electric/Gasoline,Automatic,Demonstration,34490,150,2020
+9700,citroen,c5 aircross,Electric/Gasoline,Automatic,Used,29995,224,2020
+10,hyundai,tucson,Electric/Gasoline,Automatic,Pre-registered,31490,230,2020
+4155,audi,a3,Electric/Gasoline,Automatic,Used,30760,204,2020
+896,volkswagen,unknown model,Electric,Automatic,Used,38990,204,2020
+4255,audi,e-tron,Electric,Automatic,Demonstration,69990,408,2020
+100,mitsubishi,outlander,Electric/Gasoline,Automatic,Pre-registered,31990,135,2020
+3000,mercedes-benz,c 300,Electric/Diesel,Automatic,Demonstration,48900,194,2020
+8200,mercedes-benz,glc 300,Electric/Gasoline,Automatic,Employee's car,54950,211,2020
+5500,volvo,xc60,Electric/Gasoline,Automatic,Employee's car,58885,303,2020
+10,hyundai,tucson,Electric/Diesel,Automatic,Pre-registered,33390,136,2020
+450,ford,kuga,Electric/Gasoline,Automatic,Used,34870,224,2020
+2093,fiat,500,Electric/Gasoline,Manual,Demonstration,12790,71,2020
+250,renault,zoe,Electric,Automatic,Demonstration,10880,58,2020
+100,renault,zoe,Electric,Automatic,Pre-registered,9880,72,2020
+2727,renault,twingo,Electric,Automatic,Demonstration,11780,42,2020
+50,fiat,500l,Electric/Gasoline,Manual,Used,10990,69,2020
+1001,renault,twingo,Electric,Automatic,Demonstration,11080,82,2020
+4446,fiat,500,Electric/Gasoline,Manual,Demonstration,11990,71,2020
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,13490,71,2020
+13550,volvo,xc60,Electric/Gasoline,Automatic,Used,64445,303,2020
+12043,bmw,340,Electric/Diesel,Automatic,Employee's car,66850,340,2020
+2000,mitsubishi,outlander,Electric/Gasoline,Automatic,Used,35980,241,2020
+13800,volkswagen,passat variant,Electric/Gasoline,Automatic,Used,36740,218,2020
+6150,fiat,500,Electric/Gasoline,Manual,Demonstration,12990,71,2020
+2000,renault,zoe,Electric,Automatic,Used,16670,109,2020
+8100,renault,zoe,Electric,Automatic,Demonstration,13880,69,2020
+8828,renault,zoe,Electric,Automatic,Used,14990,69,2020
+300,fiat,500c,Electric/Gasoline,Manual,Demonstration,14990,71,2020
+5,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15490,69,2020
+1001,renault,kangoo,Electric,Automatic,Demonstration,15580,60,2020
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,16490,71,2020
+2069,ford,fiesta,Electric/Gasoline,Manual,Employee's car,16950,125,2020
+5,fiat,500c,Electric/Gasoline,Manual,Pre-registered,17290,69,2020
+1511,ford,fiesta,Electric/Gasoline,Manual,Employee's car,17550,125,2020
+2813,ford,fiesta,Electric/Gasoline,Manual,Employee's car,17950,125,2020
+11,hyundai,i20,Electric/Gasoline,Manual,Used,18250,120,2020
+1490,renault,megane,Electric/Gasoline,unknown gear,Demonstration,21980,158,2020
+999,renault,zoe,Electric,Automatic,Demonstration,22570,136,2020
+999,renault,zoe,Electric,Automatic,Demonstration,23470,136,2020
+3250,mazda,mx-30,Electric,Automatic,Used,23890,110,2020
+7,mazda,mx-30,Electric,Automatic,Used,23990,110,2020
+3000,smart,forfour,Electric,Automatic,Demonstration,17390,82,2020
+4929,ford,fiesta,Electric/Gasoline,Manual,Employee's car,18550,125,2020
+1707,ford,fiesta,Electric/Gasoline,Manual,Employee's car,18950,125,2020
+7255,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,24851,140,2020
+999,renault,zoe,Electric,Automatic,Demonstration,24970,136,2020
+2500,ford,puma,Electric/Gasoline,Manual,Demonstration,25990,155,2020
+2145,hyundai,ioniq,Electric/Gasoline,Automatic,Demonstration,20290,105,2020
+2500,renault,zoe,Electric,Automatic,Demonstration,26250,136,2020
+7500,renault,zoe,Electric,Automatic,Demonstration,26710,136,2020
+999,renault,zoe,Electric,Automatic,Demonstration,27410,136,2020
+999,renault,zoe,Electric,Automatic,Demonstration,27490,69,2020
+12553,honda,jazz,Electric/Gasoline,Automatic,Used,21790,98,2020
+2650,ford,puma,Electric/Gasoline,Manual,Employee's car,21950,125,2020
+1001,renault,zoe,Electric,Automatic,Demonstration,21980,135,2020
+1000,renault,clio,Electric/Gasoline,Automatic,Used,18790,91,2020
+2908,smart,forfour,Electric,Automatic,Employee's car,18800,82,2020
+1297,ford,puma,Electric/Gasoline,Manual,Employee's car,23950,155,2020
+7274,ford,focus,Electric/Gasoline,Manual,Employee's car,24550,155,2020
+3509,smart,fortwo,Electric,Automatic,Employee's car,19980,82,2020
+13911,ford,mondeo,Electric/Gasoline,Automatic,Employee's car,24950,140,2020
+2000,mazda,mx-30,Electric,Automatic,Demonstration,24980,145,2021
+50,nissan,leaf,Electric,Automatic,Demonstration,29197,218,2021
+10,opel,grandland x,Electric/Gasoline,Automatic,Used,33850,224,2021
+5,hyundai,kona elektro,Electric,Automatic,Demonstration,35290,204,2021
+10,citroen,c4,Electric,Automatic,Used,35450,136,2021
+500,opel,mokka-e,Electric,Automatic,Demonstration,33490,77,2021
+50,toyota,c-hr,Electric/Gasoline,Automatic,Demonstration,36990,152,2021
+50,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,37490,152,2021
+50,toyota,corolla,Electric/Gasoline,Automatic,Pre-registered,37770,152,2021
+9900,porsche,taycan,Electric,Automatic,Demonstration,117900,381,2021
+9000,skoda,enyaq,Electric,Automatic,Demonstration,36790,179,2021
+10,mitsubishi,eclipse cross,Electric/Gasoline,Automatic,Demonstration,37590,188,2021
+10,mitsubishi,eclipse cross,Electric/Gasoline,Automatic,Demonstration,37790,188,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,13990,71,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,14290,71,2021
+200,suzuki,swift,Electric/Gasoline,Manual,Used,14290,83,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,14490,71,2021
+15,ford,tourneo custom,Electric/Diesel,Manual,Pre-registered,39970,185,2021
+150,fiat,500,Electric/Gasoline,Manual,Demonstration,14555,69,2021
+4800,skoda,unknown model,Electric,Automatic,Demonstration,41879,179,2021
+10,citroen,spacetourer,Electric,Automatic,Used,43440,136,2021
+1999,peugeot,traveller,Electric,Automatic,Used,44890,136,2021
+15,fiat,500,Electric/Gasoline,Manual,Demonstration,14775,69,2021
+99,fiat,500c,Electric/Gasoline,Manual,Pre-registered,14990,71,2021
+4000,audi,q3,Electric/Gasoline,Automatic,Demonstration,47904,150,2021
+100,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,50790,230,2021
+100,peugeot,3008,Electric/Gasoline,Automatic,Used,51995,300,2021
+10,fiat,500c,Electric/Gasoline,Manual,Pre-registered,15550,71,2021
+100,suzuki,swift,Electric/Gasoline,Manual,Demonstration,15790,83,2021
+100,hyundai,santa fe,Electric/Gasoline,Automatic,Pre-registered,55390,265,2021
+10,citroen,spacetourer,Electric,Automatic,Used,55440,136,2021
+5000,volkswagen,passat variant,Electric/Gasoline,Automatic,Demonstration,55900,218,2021
+14000,ds,automobiles ds 7 crossback,Electric/Gasoline,Automatic,Used,59995,299,2021
+4500,mercedes-benz,glc 300,Electric/Gasoline,Automatic,Demonstration,64870,211,2021
+10,suzuki,ignis,Electric/Gasoline,Manual,Demonstration,15800,83,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,15990,71,2021
+6000,volvo,xc40,Electric,Automatic,Demonstration,69285,408,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,16490,71,2021
+11,mazda,2,Electric/Gasoline,Manual,Pre-registered,16490,90,2021
+2000,mazda,2,Electric/Gasoline,Manual,Used,16790,90,2021
+3000,mercedes-benz,eqv 300,Electric,Automatic,Demonstration,83870,204,2021
+5100,dodge,ram,Electric/Gasoline,Automatic,Used,94999,401,2021
+3000,porsche,taycan,Electric,Automatic,Demonstration,100990,381,2021
+6010,porsche,taycan,Electric,Automatic,Demonstration,107800,381,2021
+3000,porsche,taycan,Electric,Automatic,Demonstration,108990,381,2021
+6010,porsche,cayenne,Electric/Gasoline,Automatic,Demonstration,114700,462,2021
+6010,porsche,taycan,Electric,Automatic,Demonstration,114800,381,2021
+3500,porsche,cayenne,Electric/Gasoline,Automatic,Demonstration,114990,462,2021
+4950,porsche,cayenne,Electric/Gasoline,Automatic,Demonstration,115900,462,2021
+6010,porsche,taycan,Electric,Automatic,Demonstration,116800,381,2021
+5000,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,129700,462,2021
+1000,renault,twingo,Electric,Automatic,Demonstration,16990,82,2021
+15,hyundai,i20,Electric/Gasoline,Manual,Pre-registered,16990,101,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13590,69,2021
+10,fiat,500,Electric/Gasoline,Manual,Pre-registered,13740,69,2021
+4950,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,133990,462,2021
+3500,porsche,taycan,Electric,Automatic,Demonstration,134500,489,2021
+3000,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,134990,462,2021
+4950,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,135990,560,2021
+3000,porsche,taycan,Electric,Automatic,Demonstration,137990,489,2021
+9900,porsche,taycan,Electric,Automatic,Demonstration,141990,489,2021
+6010,porsche,taycan,Electric,Automatic,Demonstration,147900,625,2021
+3500,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,149800,560,2021
+1990,porsche,taycan,Electric,Automatic,Demonstration,175990,625,2021
+234,fiat,panda,Electric/Gasoline,Manual,Demonstration,11990,69,2021
+292,fiat,500,Electric/Gasoline,Manual,Demonstration,13690,69,2021
+3000,suzuki,ignis,Electric/Gasoline,Manual,Demonstration,14800,83,2021
+50,suzuki,swift,Electric/Gasoline,Manual,Pre-registered,14990,83,2021
+99,fiat,500c,Electric/Gasoline,Manual,Pre-registered,17490,71,2021
+50,suzuki,swift,Electric/Gasoline,Automatic,Pre-registered,15990,83,2021
+50,suzuki,vitara,Electric/Gasoline,Manual,Pre-registered,17900,129,2021
+50,suzuki,sx4 s-cross,Electric/Gasoline,Automatic,Pre-registered,22990,129,2021
+50,suzuki,vitara,Electric/Gasoline,Automatic,Pre-registered,22990,129,2021
+5000,suzuki,vitara,Electric/Gasoline,Automatic,Demonstration,23990,129,2021
+50,suzuki,vitara,Electric/Gasoline,Automatic,Pre-registered,26990,129,2021
+7,fiat,panda,Electric/Gasoline,Manual,Demonstration,13390,69,2021
+5000,mazda,2,Electric/Gasoline,Manual,Demonstration,14493,90,2021
+6075,suzuki,swift,Electric/Gasoline,Manual,Employee's car,13989,83,2021
+10,fiat,500,Electric,Automatic,Demonstration,33690,0,2021
+10,fiat,500c,Electric,Automatic,Demonstration,36890,0,2021
+50,jaguar,e-pace,Electric/Gasoline,Automatic,Pre-registered,37900,160,2021
+2150,mini,cooper se,Electric/Gasoline,Automatic,Demonstration,41980,220,2021
+50,jaguar,e-pace,Electric/Gasoline,Automatic,Pre-registered,42900,160,2021
+2250,bmw,i3,Electric,Automatic,Demonstration,43090,102,2021
+15,hyundai,i20,Electric/Gasoline,Manual,Pre-registered,17990,101,2021
+99,renault,zoe,Electric,Automatic,Pre-registered,21780,136,2021
+3,peugeot,208,Electric,Automatic,Demonstration,23680,136,2021
+10,hyundai,i20,Electric/Gasoline,Automatic,Pre-registered,22490,120,2021
+10,opel,corsa,Electric,Automatic,Used,22850,136,2021
+1001,renault,zoe,Electric,Automatic,Demonstration,25637,107,2021
+35,kia,unknown model,Electric/Gasoline,Automatic,Pre-registered,27440,141,2021
+35,kia,niro,Electric/Gasoline,Automatic,Pre-registered,28440,141,2021
+10,kia,xceed,Electric/Diesel,Manual,Pre-registered,25603,136,2021
+10,renault,clio,Electric/Gasoline,Automatic,Demonstration,25870,140,2021
+150,suzuki,swace,Electric/Gasoline,Automatic,Demonstration,26790,98,2021
+5,hyundai,kona elektro,Electric,Automatic,Pre-registered,23590,136,2021
+5,hyundai,kona elektro,Electric,Automatic,Employee's car,23990,136,2021
+5,hyundai,kona,Electric,Automatic,Demonstration,23990,136,2021
+35,kia,unknown model,Electric/Gasoline,Automatic,Pre-registered,30440,141,2021
+35,kia,unknown model,Electric,Automatic,Pre-registered,32440,204,2021
+15,ford,kuga,Electric/Gasoline,Automatic,Demonstration,33990,224,2021
+35,kia,niro,Electric/Gasoline,Automatic,Pre-registered,35640,141,2021
+35,kia,e-niro,Electric,Automatic,Pre-registered,37480,204,2021
+100,renault,zoe,Electric,Automatic,Pre-registered,28800,69,2021
+4989,cupra,formentor,Electric/Gasoline,Automatic,Demonstration,42690,150,2021
+900,jeep,compass,Electric/Gasoline,Automatic,Demonstration,42890,189,2021
+320,seat,tarraco,Electric/Gasoline,Automatic,Demonstration,44990,150,2021
+3000,renault,megane,Electric/Gasoline,Automatic,Demonstration,34160,158,2021
+2500,renault,megane,Electric/Gasoline,Automatic,Demonstration,34660,158,2021
+7900,audi,a3,Electric/Gasoline,Automatic,Used,35842,150,2021
+2000,peugeot,3008,Electric/Gasoline,Automatic,Demonstration,38690,224,2021
+10,ford,kuga,Electric/Gasoline,Automatic,Pre-registered,39900,190,2021
+10,ford,s-max,Electric/Gasoline,Automatic,Pre-registered,41990,190,2021
+3246,ford,kuga,Electric/Gasoline,Automatic,Demonstration,45600,152,2021
+5,skoda,superb,Electric/Gasoline,Automatic,New,52990,156,2021
+200,jeep,wrangler,Electric/Gasoline,Automatic,Demonstration,67890,381,2021
+3500,volkswagen,tiguan,Electric/Gasoline,Automatic,Demonstration,47560,150,2021
+1800,ds,automobiles ds 7 crossback,Electric/Gasoline,Automatic,Used,53690,299,2021
+2000,tesla,unknown model,Electric,Automatic,Used,57020,487,2021
+1000,polestar,2,Electric,Automatic,Used,59980,408,2021
+3500,mercedes-benz,glc 300,Electric/Diesel,Automatic,Demonstration,62490,194,2021
+4000,polestar,2,Electric,Automatic,Used,67350,408,2021
+300,citroen,c4,Electric,Automatic,Demonstration,28540,136,2021
+5,hyundai,ioniq,Electric,Automatic,Demonstration,28690,136,2021
+10,opel,corsa,Electric,Automatic,Used,28850,136,2021
+9900,porsche,taycan,Electric,Automatic,Demonstration,109500,476,2021
+12900,porsche,taycan,Electric,Automatic,Used,109900,476,2021
+9999,audi,e-tron,Electric,Automatic,Used,109937,476,2021
+9900,porsche,taycan,Electric,Automatic,Demonstration,129500,571,2021
+12900,porsche,taycan,Electric,Automatic,Used,129900,571,2021
+9900,porsche,panamera,Electric/Gasoline,Automatic,Demonstration,154900,560,2021
+3700,volkswagen,touareg,Electric/Gasoline,Automatic,Demonstration,86970,340,2021
+9982,mercedes-benz,a 250,Electric/Gasoline,Automatic,Employee's car,37900,160,2021
+1000,hyundai,santa fe,Electric/Gasoline,Automatic,Used,50469,265,2021
+10,opel,corsa,Electric,Automatic,Used,29440,136,2021
+2000,hyundai,ioniq,Electric,Manual,Demonstration,29490,136,2021
+649,hyundai,kona,Electric/Gasoline,Automatic,Demonstration,30495,141,2021
+45,bmw,ix3,Electric,unknown gear,Used,58000,286,2021
+9999,volvo,xc60,Electric/Gasoline,Automatic,Demonstration,76990,341,2021
+10,citroen,c5 aircross,Electric/Gasoline,Automatic,Used,32440,224,2021
+10,citroen,c5 aircross,Electric/Gasoline,Automatic,Used,32850,224,2021
+500,mitsubishi,outlander,Electric/Gasoline,Automatic,Demonstration,33190,224,2021
+500,fiat,500,Electric/Gasoline,Manual,Demonstration,11805,69,2021
+99,fiat,500,Electric/Gasoline,Manual,Pre-registered,12490,71,2021
+550,fiat,500,Electric/Gasoline,Manual,Demonstration,12805,69,2021
+837,fiat,panda,Electric/Gasoline,Manual,Demonstration,12805,69,2021

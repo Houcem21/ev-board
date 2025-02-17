@@ -1,0 +1,8 @@
+pandas
+matplotlib
+requests
+pymongo
+# I think I forgot smth
+# I probably installed smth and didn't add it
+# I should check the installed dependencies later on
+# Ignoring this will crash the deployment for sure
