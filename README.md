@@ -1,9 +1,13 @@
 # Dev note
 just run these commands in order :
-cd backend
-node server.js
-cd frontend
-python3 app.py
+
+-- cd backend --
+
+-- node server.js -- 
+
+-- cd frontend --
+
+-- python3 app.py --
 
 # Project Overview
 The Electric Car Sales & Charging Station Trends Analysis project is designed to help visualize and understand the trends in electric vehicle adoption and the growth of supporting charging infrastructure. By analyzing data from 2011 to 2021, 
